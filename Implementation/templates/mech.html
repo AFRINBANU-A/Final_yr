@@ -1,0 +1,338 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="wideth=device-width, initial-scale=1.0">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <title>Mechanical Engineering</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+        <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+        <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='department.css')}}">
+        <script defer src="../static/main.js" ></script>
+        <style>
+            body{
+                background-image: url('https://cdn.wallpapersafari.com/38/5/ozJbq1.jpg');
+                filter: blur(75%);
+            }
+        </style>
+    </head>
+    <body>
+        <!-- <header><marquee>VIDYAPEETH-University Admit Eligibility Predictor</marquee></header> -->
+        
+        <header>VIDYAPEETH-University Admit Eligibility Predictor</header>
+        
+        <div class="topnav-div">
+            <div class="topnav" id="myTopnav">
+                <a href="/" class="active" target="_blank">Home</a>
+                <a href="/about" class="active" target="_blank">About</a>
+                <a href="/faqmech" class="active" target="_blank">Faq</a>
+
+            </div>
+        </div>
+        
+        <div class="content">
+            <div class="content-1">
+                <div class="box3">
+                    <div class="pic1">
+                        <a href="https://en.wikipedia.org/wiki/Mechanical_engineering" target="_blank">
+                            <img src="https://i.pinimg.com/originals/f6/5e/fa/f65efa5013612aab40dd894ccb7a736e.jpg" width= "250px" height="250px">
+                        </a>
+                    </div>
+                </div>
+                <div class="text1">
+                    <p><b>Here give your information and you will be able to see whether you are eligible for the preferred university.
+                        You will also able to know more eligible Universitiesthat you are eligible for.</b>
+                    </p>
+                </div>
+            </div>
+            <div class="content-2">
+                <div class="box2">
+                    <div class="text">
+                        <h4>To Know more about Mechanical Engineering</h4>
+                        <ul>
+                            <li><a href="https://www.naukri.com/mechanical-engineer-jobs" target="_blank" class="link_a">Job vacancy</a></li>
+                            <li><a href="https://timesofindia.indiatimes.com/topic/mechanical-engineering" target="_blank" class="link_a">Latest News!!</a></li>
+                        </ul>  
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="log">Enter Your Details</div><br><br>
+                    <form name="mech" action="/mech" method="post">
+                        <div class="input-icon">
+                            <i class="fas fa-percent ic"></i>
+                            <label class="twel">12th percentage :</label>
+                            <input class="tweltext" type="number" id="twelM" name="twelM" min="1" max="100" step="0.01" required>
+                        </div><br>
+                        <div class="input-icon">
+                            <i class="fas fa-map-marked ic"></i>
+                            <label class="city" for="cities">City :</label>
+                            <select class="citytext" value="citiesM" name="citiesM" required>
+                                <option></option>
+                                <option value="ND">New Delhi</option>
+
+                                <option value="KOL">Kolkata</option>
+
+                                <option value="VEL">Vellore</option>
+
+                                <option value="BHU">Bhubaneshwar</option>
+
+                                <option value="PIL">Pilani</option>
+
+                                <option value="KAT">Kattankulathur</option>
+
+                                <option value="BHU">Bhubaneshwar</option>
+
+                                <option value="THA">Thanjavur</option>
+
+                                <option value="GUN">Guntur</option>
+
+                                <option value="CHA">Chandigarh</option>
+
+                                <option value="PAT">Patiala</option>
+
+                                <option value="KRI">Krishnan Kovil</option>
+
+                                <option value="CHE">Chennai</option>
+
+                                <option value="AMR">Amritsar</option>
+
+                                <option value="PHA">Phagwara</option>
+
+                                <option value="TEZ">Tezpur</option>
+
+                                <option value="GRE">Greater Noida</option>
+
+                                <option value="BAN">Bangalore</option>
+
+                                <option value="BEL">Belgaum</option>
+
+                                <option value="DEH">Dehradun</option>
+
+                                <option value="AIZ">Aizawl</option>
+
+                                <option value="SOL">Solan</option>
+
+                                <option value="RAN">Ranchi</option>
+
+                                <option value="HIS">Hisar</option>
+                                    <option value="KAT">Katra</option>
+
+                                    <option value="JAI">Jaipur</option>
+
+                                    <option value="PAT">Patiala</option>
+
+                                    <option value="HYD">Hyderabad</option>
+
+                                    <option value="HAN">Hanamkonda</option>
+                                    <option value="VAD">Vadodara</option> 
+                                    <option value="KAK">Kakinada</option>
+
+                                    <option value="NAY">Naya Raipur</option>
+
+                                    <option value="COI">Coimbatore</option>
+
+                                    <option value="BHU">Bhubaneswar</option>
+
+                                    <option value="CHI">Chidambaram</option>
+
+                                    <option value="WAR">Warangal</option>
+                                    
+                                    <option value="AGR">Agra</option>  
+                            </select>
+                        </div><br>
+                        <div class="input-icon">
+                            <i class="fas fa-university ic"></i>
+                            <label class="univ" for="univName">University Name:</label>
+                            <select class="univtext" value="uniM" name="uniM" required>
+                                <option></option>
+                                <option value="JMI">Jamia Millia Islamia</option>
+                        
+                            <option value="JU">Jadavpur University</option>
+
+                            <option value="VIT">Vellore Institute of Technology</option>
+
+                            <option value="SOA">Siksha 'O' Anusandhan</option>
+
+                            <option value="BITS">Birla Institute of Technology and Science</option>
+
+                            <option value="KIIT">Kalinga Institute of Industrial Technology</option>
+
+                            <option value="SASTRA">SASTRA University Thanjavur</option>
+
+                            <option value="KL">KL University Guntur</option>
+
+                            <option value="CHU">Chandigarh University</option>
+
+                            <option value="THU">Thapar University</option>
+
+                            <option value="KARE">Kalasalingam Academy of Research and Education</option>
+
+                            <option value="DTU">Delhi Technological University</option>
+
+                            <option value="SU">Sathyabama University</option>
+
+                            <option value="GNDU">Guru Nanak Dev University</option>
+
+                            <option value="LPU">Lovely Professional University</option>
+
+                            <option value="TU">Tezpur University</option>
+
+                            <option value="SNU">Shiv Nadar University</option>
+
+                            <option value="BIHER">Bharath Institute of Higher Education and Research</option>
+
+                            <option value="BU">Bangalore University</option>
+
+                            <option value="CU">Christ University</option>
+
+                            <option value="VTU">Visvesvaraya Technological University</option>
+
+                            <option value="GEU">Graphic Era University</option>
+
+                            <option value="GGSIU">Guru Gobind Singh Indraprastha University</option>
+
+                            <option value="MIU">Mizoram University</option>
+
+                            <option value="SUS">Shoolini University Solan</option>
+
+                            <option value="BIT">Birla Institute of Technology</option>
+
+                            <option value="MGR">Dr MGR Educational and Research Institute</option>
+
+                            <option value="GJU">Guru Jambheshwar University of Science and Technology</option>
+
+                            <option value="MSUB">Maharaja Sayajirao University of Baroda</option>
+
+                            <option value="SMVD">Shri Mata Vaishno Devi University</option>
+
+                            <option value="NIMS">NIMS University</option>
+
+                            <option value="CUC">Chitkara University Chandigarh </option>
+
+                            <option value="NSUT">Netaji Subhas University of Technology</option>
+
+                            <option value="AnU">Anurag University</option>
+
+                            <option value="KU">Kakatiya University</option>
+
+                            <option value="JNTU">Jawaharlal Nehru Technological University</option>
+
+                            <option value="KLU">Kalinga University</option>
+
+                            <option value="KRU">Karunya University</option>
+
+                            <option value="HITS">Hindustan Institute of Technology and Science</option>
+
+                            <option value="CV">CV Raman Global University</option>
+
+                            <option value="VUC">Vels University Chennai</option>
+
+                            <option value="SHU">Sharda University</option>
+
+                            <option value="AU">Annamalai University</option>
+
+                            <option value="SRU">SR University</option>
+
+                            <option value="AMU">Amity University</option>
+
+                            <option value="DEI">Dayalbagh Educational Institute</option>
+
+                            <option value="VTC">Vel Tech Chennai</option>
+
+                            <option value="MU">Manipal University</option>
+
+                            <option value="AMU">Amity University</option>
+
+                            <option value="ANU">Anna University</option>
+                            </select>
+                        </div>
+                        <div class="submit-div" >
+                            <input class="sub" type="submit" value="Let's Get Start">
+                        </div>
+                      </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="calculator" href="#" onclick="show('calculator-content')">
+            <i class="fa fa-calculator" style="font-size:31px"></i>
+        </div>
+        <div class="calculator-content" id="calculator-content">
+            <div>
+                <h5>Here enter your marks and know about your cutoff</h5>
+                <div class="input-marks">
+                    <label>Maths: </label>
+                    <input placeholder="Enter your Maths mark" id="Maths"/>
+                </div>
+                <div class="input-marks">
+                    <label>Chemistry: </label>
+                    <input placeholder="Enter your Chemistry mark" id="Chemistry"/>
+                </div>
+                <div class="input-marks">
+                    <label>Physics: </label>
+                    <input placeholder="Enter your Physics mark" id="Physics"/>
+                </div>
+                <div class="submit-btn">
+                    <button type="submit" onclick="sumbitMarks()">Submit</button>
+                    <button  onclick="hide('calculator-content')">cancel</button>
+                </div>
+                <div> Your Cutoff : <p id="result"></p></div>
+            </div>
+        </div>
+
+        <div class="chatbot-content"  href="#" onclick="show('chatbot')" >
+            <i class="fa fa-question-circle" style="font-size:31px"></i>
+            <!--  -->
+        </div>
+        <div class="chatbot" id="chatbot">
+            <h1>Your Assistant!!!</h1>
+            <div id="chatbox">
+                <div class="bot-message">Hello! I am a chatbot. How can I help you today?</div>
+            </div>
+            <div id="user-input">
+                <input type="text" placeholder="Type your message here...">
+                <div class="chatbot-btns">
+                    <button onclick="sendMessage()"><b>Send</b></button>
+                    <button onclick="hide('chatbot')">Close</button>
+                </div>
+            </div>   
+        </div>
+
+        <div class="footer">
+            <h3>Contact Us:</h3>
+            <div class="icon">
+                <i class="fab fa-google"><label> vidyapeethinfo@gmail.com</label></i>
+            </div>
+            <div class="icon">
+                <i class="fab fa-linkedin-in"><label> www.linkedin.com/in/vidhyapeeth</label></i>
+            </div>
+            <div class="icon">
+                <i class="fab fa-twitter"><label> https://twitter.com/Vidhyapeethinfo</label></i>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            function sendMessage() {
+                var userInput = document.getElementById("user-input").getElementsByTagName('input')[0].value;
+                var chatbox = document.getElementById("chatbox");
+                var botMessage = document.createElement("div");
+                botMessage.className = "bot-message";
+                botMessage.innerHTML = userInput;
+                chatbox.appendChild(botMessage);
+    
+                var xhr = new XMLHttpRequest();
+                xhr.open("GET", "/get?msg=" + userInput, true);
+                xhr.onload = function() {
+                    var botMessage = document.createElement("div");
+                    botMessage.className = "bot-message";
+                    botMessage.innerHTML = xhr.responseText;
+                    chatbox.appendChild(botMessage);
+                };
+                xhr.send();
+    
+            }
+        </script>
+    </body>
+</html>
+
+

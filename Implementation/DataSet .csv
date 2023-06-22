@@ -1,0 +1,1749 @@
+University Name,District,Cutoff,Entrance Percentage,Department,Output
+ Birla Institute of Technology and Science,Pilani,150,60,Computer Science,Yes
+ Birla Institute of Technology and Science,Pilani,198,76,Computer Science,Yes
+ Birla Institute of Technology and Science,Pilani,170,98,Computer Science,Yes
+ Birla Institute of Technology and Science,Pilani,132,52,Computer Science,No
+ Birla Institute of Technology and Science,Pilani,106,36,Computer Science,No
+ Birla Institute of Technology and Science,Pilani,68,15,Computer Science,No
+ Birla Institute of Technology and Science,Pilani,46,4,Computer Science,No
+ Birla Institute of Technology and Science,Pilani,150,60,Electricals and Electronics,Yes
+ Birla Institute of Technology and Science,Pilani,158,86,Electricals and Electronics,Yes
+ Birla Institute of Technology and Science,Pilani,144,16,Electricals and Electronics,No
+ Birla Institute of Technology and Science,Pilani,138,56,Electricals and Electronics,No
+ Birla Institute of Technology and Science,Pilani,102,46,Electricals and Electronics,No
+ Birla Institute of Technology and Science,Pilani,48,36,Electricals and Electronics,No
+ Birla Institute of Technology and Science,Pilani,150,60,Electronics and Communication,Yes
+ Birla Institute of Technology and Science,Pilani,162,77,Electronics and Communication,Yes
+ Birla Institute of Technology and Science,Pilani,42,17,Electronics and Communication,No
+ Birla Institute of Technology and Science,Pilani,22,37,Electronics and Communication,No
+ Birla Institute of Technology and Science,Pilani,62,27,Electronics and Communication,No
+ Birla Institute of Technology and Science,Pilani,82,47,Electronics and Communication,No
+ Birla Institute of Technology and Science,Pilani,150,60,Civil Engineering,Yes
+ Birla Institute of Technology and Science,Pilani,172,78,Civil Engineering,Yes
+ Birla Institute of Technology and Science,Pilani,192,88,Civil Engineering,Yes
+ Birla Institute of Technology and Science,Pilani,32,18,Civil Engineering,No
+ Birla Institute of Technology and Science,Pilani,72,38,Civil Engineering,No
+ Birla Institute of Technology and Science,Pilani,150,60,Mechanical Engineering,Yes
+ Birla Institute of Technology and Science,Pilani,172,76,Mechanical Engineering,Yes
+ Birla Institute of Technology and Science,Pilani,192,86,Mechanical Engineering,Yes
+ Birla Institute of Technology and Science,Pilani,32,16,Mechanical Engineering,No
+ Birla Institute of Technology and Science,Pilani,92,46,Mechanical Engineering,No
+ Birla Institute of Technology and Science,Pilani,72,36,Mechanical Engineering,No
+ Maharaja Sayajirao University of Baroda,Vadodara,110,45,Computer Science,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,124,52,Computer Science,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,184,92,Computer Science,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,98,12,Computer Science,No
+ Maharaja Sayajirao University of Baroda,Vadodara,72,2,Computer Science,No
+ Maharaja Sayajirao University of Baroda,Vadodara,54,32,Computer Science,No
+ Maharaja Sayajirao University of Baroda,Vadodara,32,42,Computer Science,No
+ Maharaja Sayajirao University of Baroda,Vadodara,110,45,Civil Engineering,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,132,86,Civil Engineering,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,192,96,Civil Engineering,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,32,46,Civil Engineering,No
+ Maharaja Sayajirao University of Baroda,Vadodara,92,36,Civil Engineering,No
+ Maharaja Sayajirao University of Baroda,Vadodara,110,45,Mechanical Engineering,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,134,85,Mechanical Engineering,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,174,75,Mechanical Engineering,Yes
+ Maharaja Sayajirao University of Baroda,Vadodara,36,15,Mechanical Engineering,No
+ Maharaja Sayajirao University of Baroda,Vadodara,74,45,Mechanical Engineering,No
+ Maharaja Sayajirao University of Baroda,Vadodara,94,35,Mechanical Engineering,No
+Amity University,Jaipur,120,85,Information Technology,Yes
+Amity University,Jaipur,158,88,Information Technology,Yes
+Amity University,Jaipur,182,98,Information Technology,Yes
+Amity University,Jaipur,104,18,Information Technology,No
+Amity University,Jaipur,32,28,Information Technology,No
+Amity University,Jaipur,120,85,Electricals and Electronics,Yes
+Amity University,Jaipur,140,86,Electricals and Electronics,Yes
+Amity University,Jaipur,160,96,Electricals and Electronics,Yes
+Amity University,Jaipur,180,99,Electricals and Electronics,Yes
+Amity University,Jaipur,80,16,Electricals and Electronics,No
+Amity University,Jaipur,60,35,Electricals and Electronics,No
+Amity University,Jaipur,120,85,Electricals and Electronics,Yes
+Amity University,Jaipur,164,96,Electricals and Electronics,Yes
+Amity University,Jaipur,144,87,Electricals and Electronics,Yes
+Amity University,Jaipur,84,16,Electricals and Electronics,No
+Amity University,Jaipur,44,36,Electricals and Electronics,No
+Amity University,Jaipur,120,85,Electronics and Communication,Yes
+Amity University,Jaipur,154,88,Electronics and Communication,Yes
+Amity University,Jaipur,194,95,Electronics and Communication,Yes
+Amity University,Jaipur,174,99,Electronics and Communication,Yes
+Amity University,Jaipur,34,15,Electronics and Communication,No
+Amity University,Jaipur,74,35,Electronics and Communication,No
+Amity University,Jaipur,120,85,Civil Engineering,Yes
+Amity University,Jaipur,154,89,Civil Engineering,Yes
+Amity University,Jaipur,174,99,Civil Engineering,Yes
+Amity University,Jaipur,36,49,Civil Engineering,No
+Amity University,Jaipur,74,79,Civil Engineering,No
+Amity University,Jaipur,94,69,Civil Engineering,No
+Amity University,Jaipur,120,85,Mechanical Engineering,Yes
+Amity University,Jaipur,154,88,Mechanical Engineering,Yes
+Amity University,Jaipur,174,93,Mechanical Engineering,Yes
+Amity University,Jaipur,34,13,Mechanical Engineering,No
+Amity University,Jaipur,14,73,Mechanical Engineering,No
+Amity University,Jaipur,74,43,Mechanical Engineering,No
+Amity University,Jaipur,120,85,Mechanical Engineering,Yes
+Amity University,Jaipur,192,90,Mechanical Engineering,Yes
+Amity University,Jaipur,172,95,Mechanical Engineering,Yes
+Amity University,Jaipur,32,45,Mechanical Engineering,No
+Amity University,Jaipur,72,35,Mechanical Engineering,No
+Amity University,Jaipur,52,75,Mechanical Engineering,No
+Anna University,Chennai,100,60,Computer Science,Yes
+Anna University,Chennai,172,74,Computer Science,Yes
+Anna University,Chennai,182,94,Computer Science,Yes
+Anna University,Chennai,34,14,Computer Science,No
+Anna University,Chennai,42,34,Computer Science,No
+Anna University,Chennai,100,60,Information Technology,Yes
+Anna University,Chennai,198,92,Information Technology,Yes
+Anna University,Chennai,84,12,Information Technology,No
+Anna University,Chennai,62,32,Information Technology,No
+Anna University,Chennai,32,42,Information Technology,No
+Anna University,Chennai,100,60,Electricals and Electronics,Yes
+Anna University,Chennai,176,85,Electricals and Electronics,Yes
+Anna University,Chennai,96,15,Electricals and Electronics,No
+Anna University,Chennai,36,5,Electricals and Electronics,No
+Anna University,Chennai,16,35,Electricals and Electronics,No
+Anna University,Chennai,100,60,Electronics and Communication,Yes
+Anna University,Chennai,134,86,Electronics and Communication,Yes
+Anna University,Chennai,14,16,Electronics and Communication,No
+Anna University,Chennai,34,36,Electronics and Communication,No
+Anna University,Chennai,94,26,Electronics and Communication,No
+Anna University,Chennai,74,46,Electronics and Communication,No
+Anna University,Chennai,100,60,Civil Engineering,Yes
+Anna University,Chennai,144,81,Civil Engineering,Yes
+Anna University,Chennai,164,91,Civil Engineering,Yes
+Anna University,Chennai,4,21,Civil Engineering,No
+Anna University,Chennai,64,41,Civil Engineering,No
+Anna University,Chennai,100,60,Mechanical Engineering,Yes
+Anna University,Chennai,132,76,Mechanical Engineering,Yes
+Anna University,Chennai,192,86,Mechanical Engineering,Yes
+Anna University,Chennai,32,16,Mechanical Engineering,No
+Anna University,Chennai,112,56,Mechanical Engineering,No
+Anna University,Chennai,72,36,Mechanical Engineering,No
+Annamalai University,Chidambaram,114,50,Computer Science,Yes
+Annamalai University,Chidambaram,124,70,Computer Science,Yes
+Annamalai University,Chidambaram,152,80,Computer Science,Yes
+Annamalai University,Chidambaram,192,90,Computer Science,Yes
+Annamalai University,Chidambaram,24,20,Computer Science,No
+Annamalai University,Chidambaram,56,30,Computer Science,No
+Annamalai University,Chidambaram,86,10,Computer Science,No
+Annamalai University,Chidambaram,114,50,Information Technology,Yes
+Annamalai University,Chidambaram,194,94,Information Technology,Yes
+Annamalai University,Chidambaram,72,14,Information Technology,No
+Annamalai University,Chidambaram,102,24,Information Technology,No
+Annamalai University,Chidambaram,84,34,Information Technology,No
+Annamalai University,Chidambaram,114,50,Electricals and Electronics,Yes
+Annamalai University,Chidambaram,176,65,Electricals and Electronics,Yes
+Annamalai University,Chidambaram,136,85,Electricals and Electronics,Yes
+Annamalai University,Chidambaram,102,15,Electricals and Electronics,No
+Annamalai University,Chidambaram,56,35,Electricals and Electronics,No
+Annamalai University,Chidambaram,114,50,Electronics and Communication,Yes
+Annamalai University,Chidambaram,124,64,Electronics and Communication,Yes
+Annamalai University,Chidambaram,144,84,Electronics and Communication,Yes
+Annamalai University,Chidambaram,44,14,Electronics and Communication,No
+Annamalai University,Chidambaram,24,44,Electronics and Communication,No
+Annamalai University,Chidambaram,114,50,Civil Engineering,Yes
+Annamalai University,Chidambaram,130,77,Civil Engineering,Yes
+Annamalai University,Chidambaram,190,97,Civil Engineering,Yes
+Annamalai University,Chidambaram,50,17,Civil Engineering,No
+Annamalai University,Chidambaram,70,47,Civil Engineering,No
+Annamalai University,Chidambaram,30,37,Civil Engineering,No
+Annamalai University,Chidambaram,114,50,Mechanical Engineering,Yes
+Annamalai University,Chidambaram,136,82,Mechanical Engineering,Yes
+Annamalai University,Chidambaram,176,72,Mechanical Engineering,Yes
+Annamalai University,Chidambaram,36,32,Mechanical Engineering,No
+Annamalai University,Chidambaram,76,42,Mechanical Engineering,No
+Anurag University,Hyderabad,100,60,Computer Science,Yes
+Anurag University,Hyderabad,126,84,Computer Science,Yes
+Anurag University,Hyderabad,146,94,Computer Science,Yes
+Anurag University,Hyderabad,84,14,Computer Science,No
+Anurag University,Hyderabad,78,24,Computer Science,No
+Anurag University,Hyderabad,50,34,Computer Science,No
+Anurag University,Hyderabad,32,4,Computer Science,No
+Anurag University,Hyderabad,100,60,Information Technology,Yes
+Anurag University,Hyderabad,164,77,Information Technology,Yes
+Anurag University,Hyderabad,142,97,Information Technology,Yes
+Anurag University,Hyderabad,84,17,Information Technology,No
+Anurag University,Hyderabad,64,37,Information Technology,No
+Anurag University,Hyderabad,24,27,Information Technology,No
+Anurag University,Hyderabad,100,60,Electricals and Electronics,Yes
+Anurag University,Hyderabad,166,71,Electricals and Electronics,Yes
+Anurag University,Hyderabad,146,91,Electricals and Electronics,Yes
+Anurag University,Hyderabad,86,11,Electricals and Electronics,No
+Anurag University,Hyderabad,66,21,Electricals and Electronics,No
+Anurag University,Hyderabad,100,60,Electronics and Communication,Yes
+Anurag University,Hyderabad,138,77,Electronics and Communication,Yes
+Anurag University,Hyderabad,178,87,Electronics and Communication,Yes
+Anurag University,Hyderabad,198,97,Electronics and Communication,Yes
+Anurag University,Hyderabad,38,17,Electronics and Communication,No
+Anurag University,Hyderabad,58,37,Electronics and Communication,No
+Anurag University,Hyderabad,100,60,Civil Engineering,Yes
+Anurag University,Hyderabad,134,70,Civil Engineering,Yes
+Anurag University,Hyderabad,194,90,Civil Engineering,Yes
+Anurag University,Hyderabad,34,20,Civil Engineering,No
+Anurag University,Hyderabad,54,40,Civil Engineering,No
+Anurag University,Hyderabad,100,60,Mechanical Engineering,Yes
+Anurag University,Hyderabad,176,88,Mechanical Engineering,Yes
+Anurag University,Hyderabad,16,18,Mechanical Engineering,No
+Anurag University,Hyderabad,36,48,Mechanical Engineering,No
+Anurag University,Hyderabad,76,38,Mechanical Engineering,No
+ARKA Jain University,Jamshedpur,100,55,Electricals and Electronics,Yes
+ARKA Jain University,Jamshedpur,170,83,Electricals and Electronics,Yes
+ARKA Jain University,Jamshedpur,30,3,Electricals and Electronics,No
+ARKA Jain University,Jamshedpur,70,13,Electricals and Electronics,No
+ARKA Jain University,Jamshedpur,50,43,Electricals and Electronics,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,130,50,Computer Science,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,130,67,Computer Science,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,130,82,Computer Science,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,24,18,Computer Science,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,56,29,Computer Science,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,130,50,Electronics and Communication,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,154,68,Electronics and Communication,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,174,78,Electronics and Communication,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,194,98,Electronics and Communication,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,94,18,Electronics and Communication,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,74,48,Electronics and Communication,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,130,50,Civil Engineering,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,158,90,Civil Engineering,Yes
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,38,40,Civil Engineering,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,78,20,Civil Engineering,No
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,98,30,Civil Engineering,No
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,100,70,Information Technology,Yes
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,164,77,Information Technology,Yes
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,188,97,Information Technology,Yes
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,82,17,Information Technology,No
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,70,37,Information Technology,No
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,42,57,Information Technology,No
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,100,65,Electricals and Electronics,Yes
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,126,71,Electricals and Electronics,Yes
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,166,81,Electricals and Electronics,Yes
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,46,21,Electricals and Electronics,No
+B.S Abdur Rahman Crescent Institute of Science and Technology,Chennai,66,11,Electricals and Electronics,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,100,50,Computer Science,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,136,75,Computer Science,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,142,94,Computer Science,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,164,82,Computer Science,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,64,25,Computer Science,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,46,39,Computer Science,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,82,16,Computer Science,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,100,50,Electronics and Communication,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,156,89,Electronics and Communication,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,176,79,Electronics and Communication,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,56,19,Electronics and Communication,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,76,49,Electronics and Communication,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,36,9,Electronics and Communication,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,100,50,Civil Engineering,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,126,74,Civil Engineering,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,166,84,Civil Engineering,Yes
+Babasaheb Bhimrao Ambedkar University,Lucknow,26,14,Civil Engineering,No
+Babasaheb Bhimrao Ambedkar University,Lucknow,46,34,Civil Engineering,No
+Banasthali Vidyapith,Jaipur,100,55,Computer Science,Yes
+Banasthali Vidyapith,Jaipur,130,63,Computer Science,Yes
+Banasthali Vidyapith,Jaipur,162,94,Computer Science,Yes
+Banasthali Vidyapith,Jaipur,46,39,Computer Science,No
+Banasthali Vidyapith,Jaipur,70,42,Computer Science,No
+Banasthali Vidyapith,Jaipur,82,17,Computer Science,No
+Banasthali Vidyapith,Jaipur,100,55,Information Technology,Yes
+Banasthali Vidyapith,Jaipur,138,75,Information Technology,Yes
+Banasthali Vidyapith,Jaipur,198,85,Information Technology,Yes
+Banasthali Vidyapith,Jaipur,36,15,Information Technology,No
+Banasthali Vidyapith,Jaipur,48,35,Information Technology,No
+Banasthali Vidyapith,Jaipur,100,55,Electricals and Electronics,Yes
+Banasthali Vidyapith,Jaipur,126,73,Electricals and Electronics,Yes
+Banasthali Vidyapith,Jaipur,186,93,Electricals and Electronics,Yes
+Banasthali Vidyapith,Jaipur,86,13,Electricals and Electronics,No
+Banasthali Vidyapith,Jaipur,46,53,Electricals and Electronics,No
+Banasthali Vidyapith,Jaipur,174,55,Electronics and Communication,Yes
+Banasthali Vidyapith,Jaipur,34,77,Electronics and Communication,Yes
+Banasthali Vidyapith,Jaipur,94,17,Electronics and Communication,No
+Banasthali Vidyapith,Jaipur,54,37,Electronics and Communication,No
+Banasthali Vidyapith,Jaipur,74,47,Electronics and Communication,No
+Bangalore University,Bangalore,100,60,Computer Science,Yes
+Bangalore University,Bangalore,134,75,Computer Science,Yes
+Bangalore University,Bangalore,188,94,Computer Science,Yes
+Bangalore University,Bangalore,48,24,Computer Science,No
+Bangalore University,Bangalore,74,37,Computer Science,No
+Bangalore University,Bangalore,38,19,Computer Science,No
+Bangalore University,Bangalore,100,60,Information Technology,Yes
+Bangalore University,Bangalore,138,74,Information Technology,Yes
+Bangalore University,Bangalore,144,84,Information Technology,Yes
+Bangalore University,Bangalore,162,94,Information Technology,Yes
+Bangalore University,Bangalore,74,14,Information Technology,No
+Bangalore University,Bangalore,52,34,Information Technology,No
+Bangalore University,Bangalore,20,24,Information Technology,No
+Bangalore University,Bangalore,100,60,Electricals and Electronics,Yes
+Bangalore University,Bangalore,130,75,Electricals and Electronics,Yes
+Bangalore University,Bangalore,170,85,Electricals and Electronics,Yes
+Bangalore University,Bangalore,50,55,Electricals and Electronics,No
+Bangalore University,Bangalore,70,15,Electricals and Electronics,No
+Bangalore University,Bangalore,100,60,Civil Engineering,Yes
+Bangalore University,Bangalore,134,77,Civil Engineering,Yes
+Bangalore University,Bangalore,194,87,Civil Engineering,Yes
+Bangalore University,Bangalore,174,97,Civil Engineering,Yes
+Bangalore University,Bangalore,34,17,Civil Engineering,No
+Bangalore University,Bangalore,54,37,Civil Engineering,No
+Bangalore University,Bangalore,100,60,Mechanical Engineering,Yes
+Bangalore University,Bangalore,136,80,Mechanical Engineering,Yes
+Bangalore University,Bangalore,196,90,Mechanical Engineering,Yes
+Bangalore University,Bangalore,36,10,Mechanical Engineering,No
+Bangalore University,Bangalore,76,40,Mechanical Engineering,No
+Bangalore University,Bangalore,96,50,Mechanical Engineering,No
+Bharath Institute of Higher Education and Research,Chennai,100,50,Computer Science,Yes
+Bharath Institute of Higher Education and Research,Chennai,124,62,Computer Science,Yes
+Bharath Institute of Higher Education and Research,Chennai,152,76,Computer Science,Yes
+Bharath Institute of Higher Education and Research,Chennai,162,81,Computer Science,Yes
+Bharath Institute of Higher Education and Research,Chennai,184,92,Computer Science,Yes
+Bharath Institute of Higher Education and Research,Chennai,64,42,Computer Science,No
+Bharath Institute of Higher Education and Research,Chennai,72,39,Computer Science,No
+Bharath Institute of Higher Education and Research,Chennai,90,15,Computer Science,No
+Bharath Institute of Higher Education and Research,Chennai,100,50,Information Technology,Yes
+Bharath Institute of Higher Education and Research,Chennai,118,77,Information Technology,Yes
+Bharath Institute of Higher Education and Research,Chennai,190,97,Information Technology,Yes
+Bharath Institute of Higher Education and Research,Chennai,42,18,Information Technology,No
+Bharath Institute of Higher Education and Research,Chennai,72,7,Information Technology,No
+Bharath Institute of Higher Education and Research,Chennai,84,2,Information Technology,No
+Bharath Institute of Higher Education and Research,Chennai,100,50,Electricals and Electronics,Yes
+Bharath Institute of Higher Education and Research,Chennai,188,65,Electricals and Electronics,Yes
+Bharath Institute of Higher Education and Research,Chennai,148,85,Electricals and Electronics,Yes
+Bharath Institute of Higher Education and Research,Chennai,88,15,Electricals and Electronics,No
+Bharath Institute of Higher Education and Research,Chennai,48,23,Electricals and Electronics,No
+Bharath Institute of Higher Education and Research,Chennai,28,35,Electricals and Electronics,No
+Bharath Institute of Higher Education and Research,Chennai,100,50,Electronics and Communication,Yes
+Bharath Institute of Higher Education and Research,Chennai,198,72,Electronics and Communication,Yes
+Bharath Institute of Higher Education and Research,Chennai,178,82,Electronics and Communication,Yes
+Bharath Institute of Higher Education and Research,Chennai,158,92,Electronics and Communication,Yes
+Bharath Institute of Higher Education and Research,Chennai,18,12,Electronics and Communication,No
+Bharath Institute of Higher Education and Research,Chennai,98,42,Electronics and Communication,No
+Bharath Institute of Higher Education and Research,Chennai,100,50,Civil Engineering,Yes
+Bharath Institute of Higher Education and Research,Chennai,154,66,Civil Engineering,Yes
+Bharath Institute of Higher Education and Research,Chennai,174,86,Civil Engineering,Yes
+Bharath Institute of Higher Education and Research,Chennai,14,16,Civil Engineering,No
+Bharath Institute of Higher Education and Research,Chennai,34,36,Civil Engineering,No
+Bharath Institute of Higher Education and Research,Chennai,54,46,Civil Engineering,No
+Bharath Institute of Higher Education and Research,Chennai,100,50,Mechanical Engineering,Yes
+Bharath Institute of Higher Education and Research,Chennai,154,80,Mechanical Engineering,Yes
+Bharath Institute of Higher Education and Research,Chennai,134,90,Mechanical Engineering,Yes
+Bharath Institute of Higher Education and Research,Chennai,34,10,Mechanical Engineering,No
+Bharath Institute of Higher Education and Research,Chennai,54,40,Mechanical Engineering,No
+Bharath Institute of Higher Education and Research,Chennai,74,30,Mechanical Engineering,No
+Bharatiya Engineering Science and Technology Innovation University,Anantapur,110,65,Electricals and Electronics,Yes
+Bharatiya Engineering Science and Technology Innovation University,Anantapur,148,72,Electricals and Electronics,Yes
+Bharatiya Engineering Science and Technology Innovation University,Anantapur,88,8,Electricals and Electronics,No
+Bharatiya Engineering Science and Technology Innovation University,Anantapur,80,22,Electricals and Electronics,No
+Bharatiya Engineering Science and Technology Innovation University,Anantapur,68,32,Electricals and Electronics,No
+Bharatiya Engineering Science and Technology Innovation University,Anantapur,28,12,Electricals and Electronics,No
+Birla Institute of Technology,Ranchi,150,55,Computer Science,Yes
+Birla Institute of Technology,Ranchi,158,64,Computer Science,Yes
+Birla Institute of Technology,Ranchi,172,84,Computer Science,Yes
+Birla Institute of Technology,Ranchi,188,94,Computer Science,Yes
+Birla Institute of Technology,Ranchi,130,14,Computer Science,No
+Birla Institute of Technology,Ranchi,142,24,Computer Science,No
+Birla Institute of Technology,Ranchi,108,34,Computer Science,No
+Birla Institute of Technology,Ranchi,58,44,Computer Science,No
+Birla Institute of Technology,Ranchi,150,55,Information Technology,Yes
+Birla Institute of Technology,Ranchi,178,74,Information Technology,Yes
+Birla Institute of Technology,Ranchi,182,94,Information Technology,Yes
+Birla Institute of Technology,Ranchi,14,14,Information Technology,No
+Birla Institute of Technology,Ranchi,68,34,Information Technology,No
+Birla Institute of Technology,Ranchi,52,4,Information Technology,No
+Birla Institute of Technology,Ranchi,150,55,Electricals and Electronics,Yes
+Birla Institute of Technology,Ranchi,162,69,Electricals and Electronics,Yes
+Birla Institute of Technology,Ranchi,182,89,Electricals and Electronics,Yes
+Birla Institute of Technology,Ranchi,22,19,Electricals and Electronics,No
+Birla Institute of Technology,Ranchi,142,9,Electricals and Electronics,No
+Birla Institute of Technology,Ranchi,150,55,Electronics and Communication,Yes
+Birla Institute of Technology,Ranchi,172,60,Electronics and Communication,Yes
+Birla Institute of Technology,Ranchi,192,80,Electronics and Communication,Yes
+Birla Institute of Technology,Ranchi,32,10,Electronics and Communication,No
+Birla Institute of Technology,Ranchi,72,30,Electronics and Communication,No
+Birla Institute of Technology,Ranchi,92,40,Electronics and Communication,No
+Birla Institute of Technology,Ranchi,150,55,Civil Engineering,Yes
+Birla Institute of Technology,Ranchi,178,84,Civil Engineering,Yes
+Birla Institute of Technology,Ranchi,38,14,Civil Engineering,No
+Birla Institute of Technology,Ranchi,78,34,Civil Engineering,No
+Birla Institute of Technology,Ranchi,58,44,Civil Engineering,No
+Birla Institute of Technology,Ranchi,98,4,Civil Engineering,No
+Birla Institute of Technology,Ranchi,150,55,Mechanical Engineering,Yes
+Birla Institute of Technology,Ranchi,158,74,Mechanical Engineering,Yes
+Birla Institute of Technology,Ranchi,178,84,Mechanical Engineering,Yes
+Birla Institute of Technology,Ranchi,38,14,Mechanical Engineering,No
+Birla Institute of Technology,Ranchi,78,44,Mechanical Engineering,No
+Birla Institute of Technology,Ranchi,138,34,Mechanical Engineering,No
+Centurion University of Technology and Management,Gajapati,120,60,Electricals and Electronics,Yes
+Centurion University of Technology and Management,Gajapati,148,72,Electricals and Electronics,Yes
+Centurion University of Technology and Management,Gajapati,188,82,Electricals and Electronics,Yes
+Centurion University of Technology and Management,Gajapati,88,12,Electricals and Electronics,No
+Centurion University of Technology and Management,Gajapati,28,32,Electricals and Electronics,No
+Centurion University of Technology and Management,Gajapati,68,43,Electricals and Electronics,No
+Chandigarh University,Chandigarh,100,45,Computer Science,Yes
+Chandigarh University,Chandigarh,138,59,Computer Science,Yes
+Chandigarh University,Chandigarh,164,81,Computer Science,Yes
+Chandigarh University,Chandigarh,40,35,Computer Science,No
+Chandigarh University,Chandigarh,90,23,Computer Science,No
+Chandigarh University,Chandigarh,100,35,Information Technology,Yes
+Chandigarh University,Chandigarh,130,42,Information Technology,Yes
+Chandigarh University,Chandigarh,158,92,Information Technology,Yes
+Chandigarh University,Chandigarh,40,22,Information Technology,No
+Chandigarh University,Chandigarh,76,32,Information Technology,No
+Chandigarh University,Chandigarh,98,12,Information Technology,No
+Chandigarh University,Chandigarh,100,35,Electronics and Communication,Yes
+Chandigarh University,Chandigarh,166,80,Electronics and Communication,Yes
+Chandigarh University,Chandigarh,66,30,Electronics and Communication,No
+Chandigarh University,Chandigarh,26,20,Electronics and Communication,No
+Chandigarh University,Chandigarh,6,10,Electronics and Communication,No
+Chandigarh University,Chandigarh,100,35,Civil Engineering,Yes
+Chandigarh University,Chandigarh,136,51,Civil Engineering,Yes
+Chandigarh University,Chandigarh,176,81,Civil Engineering,Yes
+Chandigarh University,Chandigarh,36,11,Civil Engineering,No
+Chandigarh University,Chandigarh,76,21,Civil Engineering,No
+Chandigarh University,Chandigarh,100,35,Mechanical Engineering,Yes
+Chandigarh University,Chandigarh,122,49,Mechanical Engineering,Yes
+Chandigarh University,Chandigarh,162,89,Mechanical Engineering,Yes
+Chandigarh University,Chandigarh,82,29,Mechanical Engineering,No
+Chandigarh University,Chandigarh,42,39,Mechanical Engineering,No
+Chitkara University Chandigarh ,Patiala,130,80,Civil Engineering,Yes
+Chitkara University Chandigarh ,Patiala,154,90,Civil Engineering,Yes
+Chitkara University Chandigarh ,Patiala,14,20,Civil Engineering,No
+Chitkara University Chandigarh ,Patiala,34,30,Civil Engineering,No
+Chitkara University Chandigarh ,Patiala,74,70,Civil Engineering,No
+Chitkara University Chandigarh ,Patiala,130,80,Mechanical Engineering,Yes
+Chitkara University Chandigarh ,Patiala,172,87,Mechanical Engineering,Yes
+Chitkara University Chandigarh ,Patiala,132,97,Mechanical Engineering,Yes
+Chitkara University Chandigarh ,Patiala,32,17,Mechanical Engineering,No
+Chitkara University Chandigarh ,Patiala,72,77,Mechanical Engineering,No
+Christ University,Bangalore,100,60,Computer Science,Yes
+Christ University,Bangalore,122,72,Computer Science,Yes
+Christ University,Bangalore,146,84,Computer Science,Yes
+Christ University,Bangalore,168,93,Computer Science,Yes
+Christ University,Bangalore,186,64,Computer Science,Yes
+Christ University,Bangalore,64,12,Computer Science,No
+Christ University,Bangalore,92,25,Computer Science,No
+Christ University,Bangalore,62,36,Computer Science,No
+Christ University,Bangalore,100,60,Information Technology,Yes
+Christ University,Bangalore,134,75,Information Technology,Yes
+Christ University,Bangalore,164,85,Information Technology,Yes
+Christ University,Bangalore,28,15,Information Technology,No
+Christ University,Bangalore,56,25,Information Technology,No
+Christ University,Bangalore,72,45,Information Technology,No
+Christ University,Bangalore,100,60,Electricals and Electronics,Yes
+Christ University,Bangalore,172,85,Electricals and Electronics,Yes
+Christ University,Bangalore,52,15,Electricals and Electronics,No
+Christ University,Bangalore,32,45,Electricals and Electronics,No
+Christ University,Bangalore,12,25,Electricals and Electronics,No
+Christ University,Bangalore,100,60,Electronics and Communication,Yes
+Christ University,Bangalore,120,84,Electronics and Communication,Yes
+Christ University,Bangalore,180,74,Electronics and Communication,Yes
+Christ University,Bangalore,20,14,Electronics and Communication,No
+Christ University,Bangalore,60,54,Electronics and Communication,No
+Christ University,Bangalore,100,60,Civil Engineering,Yes
+Christ University,Bangalore,156,87,Civil Engineering,Yes
+Christ University,Bangalore,36,7,Civil Engineering,No
+Christ University,Bangalore,56,27,Civil Engineering,No
+Christ University,Bangalore,6,47,Civil Engineering,No
+Christ University,Bangalore,76,37,Civil Engineering,No
+Christ University,Bangalore,100,60,Mechanical Engineering,Yes
+Christ University,Bangalore,136,71,Mechanical Engineering,Yes
+Christ University,Bangalore,196,81,Mechanical Engineering,Yes
+Christ University,Bangalore,36,11,Mechanical Engineering,No
+Christ University,Bangalore,56,51,Mechanical Engineering,No
+Christ University,Bangalore,76,31,Mechanical Engineering,No
+CV Raman Global University,Bhubaneswar,120,70,Computer Science,Yes
+CV Raman Global University,Bhubaneswar,170,88,Computer Science,Yes
+CV Raman Global University,Bhubaneswar,144,98,Computer Science,Yes
+CV Raman Global University,Bhubaneswar,106,18,Computer Science,No
+CV Raman Global University,Bhubaneswar,84,48,Computer Science,No
+CV Raman Global University,Bhubaneswar,32,28,Computer Science,No
+CV Raman Global University,Bhubaneswar,120,70,Information Technology,Yes
+CV Raman Global University,Bhubaneswar,162,89,Information Technology,Yes
+CV Raman Global University,Bhubaneswar,50,19,Information Technology,No
+CV Raman Global University,Bhubaneswar,72,39,Information Technology,No
+CV Raman Global University,Bhubaneswar,104,29,Information Technology,No
+CV Raman Global University,Bhubaneswar,20,9,Information Technology,No
+CV Raman Global University,Bhubaneswar,120,70,Electricals and Electronics,Yes
+CV Raman Global University,Bhubaneswar,170,83,Electricals and Electronics,Yes
+CV Raman Global University,Bhubaneswar,150,93,Electricals and Electronics,Yes
+CV Raman Global University,Bhubaneswar,110,13,Electricals and Electronics,No
+CV Raman Global University,Bhubaneswar,30,23,Electricals and Electronics,No
+CV Raman Global University,Bhubaneswar,70,53,Electricals and Electronics,No
+CV Raman Global University,Bhubaneswar,120,70,Electronics and Communication,Yes
+CV Raman Global University,Bhubaneswar,188,82,Electronics and Communication,Yes
+CV Raman Global University,Bhubaneswar,168,92,Electronics and Communication,Yes
+CV Raman Global University,Bhubaneswar,28,12,Electronics and Communication,No
+CV Raman Global University,Bhubaneswar,68,32,Electronics and Communication,No
+CV Raman Global University,Bhubaneswar,48,52,Electronics and Communication,No
+CV Raman Global University,Bhubaneswar,120,70,Civil Engineering,Yes
+CV Raman Global University,Bhubaneswar,166,86,Civil Engineering,Yes
+CV Raman Global University,Bhubaneswar,66,16,Civil Engineering,No
+CV Raman Global University,Bhubaneswar,26,46,Civil Engineering,No
+CV Raman Global University,Bhubaneswar,46,66,Civil Engineering,No
+CV Raman Global University,Bhubaneswar,120,70,Mechanical Engineering,Yes
+CV Raman Global University,Bhubaneswar,144,91,Mechanical Engineering,Yes
+CV Raman Global University,Bhubaneswar,44,11,Mechanical Engineering,No
+CV Raman Global University,Bhubaneswar,64,21,Mechanical Engineering,No
+CV Raman Global University,Bhubaneswar,24,31,Mechanical Engineering,No
+CV Raman Global University,Bhubaneswar,70,41,Mechanical Engineering,No
+DAIICT Gandhinagar,Gandhinagar,120,85,Information Technology,Yes
+DAIICT Gandhinagar,Gandhinagar,152,95,Information Technology,Yes
+DAIICT Gandhinagar,Gandhinagar,178,99,Information Technology,Yes
+DAIICT Gandhinagar,Gandhinagar,100,15,Information Technology,No
+DAIICT Gandhinagar,Gandhinagar,26,5,Information Technology,No
+Dayalbagh Educational Institute,Agra,130,80,Civil Engineering,Yes
+Dayalbagh Educational Institute,Agra,198,88,Civil Engineering,Yes
+Dayalbagh Educational Institute,Agra,158,90,Civil Engineering,Yes
+Dayalbagh Educational Institute,Agra,178,98,Civil Engineering,Yes
+Dayalbagh Educational Institute,Agra,98,40,Civil Engineering,No
+Dayalbagh Educational Institute,Agra,68,70,Civil Engineering,No
+Dayalbagh Educational Institute,Agra,130,80,Mechanical Engineering,Yes
+Dayalbagh Educational Institute,Agra,154,84,Mechanical Engineering,Yes
+Dayalbagh Educational Institute,Agra,174,94,Mechanical Engineering,Yes
+Dayalbagh Educational Institute,Agra,34,41,Mechanical Engineering,No
+Dayalbagh Educational Institute,Agra,54,14,Mechanical Engineering,No
+Dayalbagh Educational Institute,Agra,74,74,Mechanical Engineering,No
+Delhi Technological University, New Delhi,120,70,Computer Science,Yes
+Delhi Technological University, New Delhi,150,75,Computer Science,Yes
+Delhi Technological University, New Delhi,170,93,Computer Science,Yes
+Delhi Technological University, New Delhi,192,81,Computer Science,Yes
+Delhi Technological University, New Delhi,104,38,Computer Science,No
+Delhi Technological University, New Delhi,64,69,Computer Science,No
+Delhi Technological University, New Delhi,38,51,Computer Science,No
+Delhi Technological University, New Delhi,120,70,Information Technology,Yes
+Delhi Technological University, New Delhi,180,84,Information Technology,Yes
+Delhi Technological University, New Delhi,42,14,Information Technology,No
+Delhi Technological University, New Delhi,36,21,Information Technology,No
+Delhi Technological University, New Delhi,18,32,Information Technology,No
+Delhi Technological University, New Delhi,120,70,Electronics and Communication,Yes
+Delhi Technological University, New Delhi,168,92,Electronics and Communication,Yes
+Delhi Technological University, New Delhi,28,12,Electronics and Communication,No
+Delhi Technological University, New Delhi,88,2,Electronics and Communication,No
+Delhi Technological University, New Delhi,48,32,Electronics and Communication,No
+Delhi Technological University, New Delhi,120,70,Civil Engineering,Yes
+Delhi Technological University, New Delhi,154,82,Civil Engineering,Yes
+Delhi Technological University, New Delhi,194,92,Civil Engineering,Yes
+Delhi Technological University, New Delhi,34,22,Civil Engineering,No
+Delhi Technological University, New Delhi,54,32,Civil Engineering,No
+Delhi Technological University, New Delhi,74,42,Civil Engineering,No
+Delhi Technological University, New Delhi,120,70,Mechanical Engineering,Yes
+Delhi Technological University, New Delhi,146,82,Mechanical Engineering,Yes
+Delhi Technological University, New Delhi,164,92,Mechanical Engineering,Yes
+Delhi Technological University, New Delhi,26,12,Mechanical Engineering,No
+Delhi Technological University, New Delhi,66,62,Mechanical Engineering,No
+Delhi Technological University, New Delhi,106,52,Mechanical Engineering,No
+Dhanalakshmi Srinivasan University,Tiruchirappalli,140,50,Electricals and Electronics,Yes
+Dhanalakshmi Srinivasan University,Tiruchirappalli,174,85,Electricals and Electronics,Yes
+Dhanalakshmi Srinivasan University,Tiruchirappalli,194,75,Electricals and Electronics,Yes
+Dhanalakshmi Srinivasan University,Tiruchirappalli,154,95,Electricals and Electronics,Yes
+Dhanalakshmi Srinivasan University,Tiruchirappalli,134,15,Electricals and Electronics,No
+Dhanalakshmi Srinivasan University,Tiruchirappalli,34,35,Electricals and Electronics,No
+Dharmsinh Desai University,Nadiad,110,80,Information Technology,Yes
+Dharmsinh Desai University,Nadiad,182,93,Information Technology,Yes
+Dharmsinh Desai University,Nadiad,134,83,Information Technology,Yes
+Dharmsinh Desai University,Nadiad,100,33,Information Technology,No
+Dharmsinh Desai University,Nadiad,16,13,Information Technology,No
+Dr MGR Educational and Research Institute,Chennai,130,55,Computer Science,Yes
+Dr MGR Educational and Research Institute,Chennai,146,72,Computer Science,Yes
+Dr MGR Educational and Research Institute,Chennai,164,82,Computer Science,Yes
+Dr MGR Educational and Research Institute,Chennai,68,22,Computer Science,No
+Dr MGR Educational and Research Institute,Chennai,118,12,Computer Science,No
+Dr MGR Educational and Research Institute,Chennai,130,55,Information Technology,Yes
+Dr MGR Educational and Research Institute,Chennai,146,74,Information Technology,Yes
+Dr MGR Educational and Research Institute,Chennai,188,84,Information Technology,Yes
+Dr MGR Educational and Research Institute,Chennai,34,14,Information Technology,No
+Dr MGR Educational and Research Institute,Chennai,58,24,Information Technology,No
+Dr MGR Educational and Research Institute,Chennai,68,44,Information Technology,No
+Dr MGR Educational and Research Institute,Chennai,130,55,Electricals and Electronics,Yes
+Dr MGR Educational and Research Institute,Chennai,144,80,Electricals and Electronics,Yes
+Dr MGR Educational and Research Institute,Chennai,184,60,Electricals and Electronics,Yes
+Dr MGR Educational and Research Institute,Chennai,24,10,Electricals and Electronics,No
+Dr MGR Educational and Research Institute,Chennai,84,30,Electricals and Electronics,No
+Dr MGR Educational and Research Institute,Chennai,130,55,Electronics and Communication,Yes
+Dr MGR Educational and Research Institute,Chennai,152,71,Electronics and Communication,Yes
+Dr MGR Educational and Research Institute,Chennai,172,91,Electronics and Communication,Yes
+Dr MGR Educational and Research Institute,Chennai,92,11,Electronics and Communication,No
+Dr MGR Educational and Research Institute,Chennai,52,31,Electronics and Communication,No
+Dr MGR Educational and Research Institute,Chennai,130,55,Civil Engineering,Yes
+Dr MGR Educational and Research Institute,Chennai,158,64,Civil Engineering,Yes
+Dr MGR Educational and Research Institute,Chennai,178,84,Civil Engineering,Yes
+Dr MGR Educational and Research Institute,Chennai,38,14,Civil Engineering,No
+Dr MGR Educational and Research Institute,Chennai,98,34,Civil Engineering,No
+Dr MGR Educational and Research Institute,Chennai,118,24,Civil Engineering,No
+Dr MGR Educational and Research Institute,Chennai,130,55,Mechanical Engineering,Yes
+Dr MGR Educational and Research Institute,Chennai,198,74,Mechanical Engineering,Yes
+Dr MGR Educational and Research Institute,Chennai,178,84,Mechanical Engineering,Yes
+Dr MGR Educational and Research Institute,Chennai,38,44,Mechanical Engineering,No
+Dr MGR Educational and Research Institute,Chennai,98,34,Mechanical Engineering,No
+Dr MGR Educational and Research Institute,Chennai,78,14,Mechanical Engineering,No
+Eklavya University,Damoh,110,85,Information Technology,Yes
+Eklavya University,Damoh,184,92,Information Technology,Yes
+Eklavya University,Damoh,144,88,Information Technology,Yes
+Eklavya University,Damoh,84,95,Information Technology,Yes
+Eklavya University,Damoh,104,12,Information Technology,No
+Eklavya University,Damoh,20,32,Information Technology,No
+Eklavya University,Damoh,110,85,Electricals and Electronics,Yes
+Eklavya University,Damoh,172,94,Electricals and Electronics,Yes
+Eklavya University,Damoh,152,88,Electricals and Electronics,Yes
+Eklavya University,Damoh,92,14,Electricals and Electronics,No
+Eklavya University,Damoh,52,74,Electricals and Electronics,No
+Galgotias University,Greater Noida,130,60,Electricals and Electronics,Yes
+Galgotias University,Greater Noida,156,79,Electricals and Electronics,Yes
+Galgotias University,Greater Noida,178,89,Electricals and Electronics,Yes
+Galgotias University,Greater Noida,78,19,Electricals and Electronics,No
+Galgotias University,Greater Noida,58,39,Electricals and Electronics,No
+Galgotias University,Greater Noida,38,49,Electricals and Electronics,No
+GLA University,Mathura,110,45,Electricals and Electronics,Yes
+GLA University,Mathura,148,88,Electricals and Electronics,Yes
+GLA University,Mathura,168,58,Electricals and Electronics,Yes
+GLA University,Mathura,88,17,Electricals and Electronics,No
+GLA University,Mathura,28,27,Electricals and Electronics,No
+Graphic Era University,Dehradun,120,50,Computer Science,Yes
+Graphic Era University,Dehradun,146,68,Computer Science,Yes
+Graphic Era University,Dehradun,172,93,Computer Science,Yes
+Graphic Era University,Dehradun,46,42,Computer Science,No
+Graphic Era University,Dehradun,30,38,Computer Science,No
+Graphic Era University,Dehradun,70,19,Computer Science,No
+Graphic Era University,Dehradun,28,4,Computer Science,No
+Graphic Era University,Dehradun,120,50,Electronics and Communication,Yes
+Graphic Era University,Dehradun,142,66,Electronics and Communication,Yes
+Graphic Era University,Dehradun,162,86,Electronics and Communication,Yes
+Graphic Era University,Dehradun,2,16,Electronics and Communication,No
+Graphic Era University,Dehradun,102,36,Electronics and Communication,No
+Graphic Era University,Dehradun,120,50,Civil Engineering,Yes
+Graphic Era University,Dehradun,152,69,Civil Engineering,Yes
+Graphic Era University,Dehradun,172,89,Civil Engineering,Yes
+Graphic Era University,Dehradun,192,79,Civil Engineering,Yes
+Graphic Era University,Dehradun,32,19,Civil Engineering,No
+Graphic Era University,Dehradun,72,49,Civil Engineering,No
+Graphic Era University,Dehradun,120,50,Mechanical Engineering,Yes
+Graphic Era University,Dehradun,142,72,Mechanical Engineering,Yes
+Graphic Era University,Dehradun,182,82,Mechanical Engineering,Yes
+Graphic Era University,Dehradun,42,22,Mechanical Engineering,No
+Graphic Era University,Dehradun,62,32,Mechanical Engineering,No
+Guru Gobind Singh Indraprastha University,New Delhi,110,55,Computer Science,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,170,92,Computer Science,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,170,92,Computer Science,No
+Guru Gobind Singh Indraprastha University,New Delhi,170,92,Computer Science,No
+Guru Gobind Singh Indraprastha University,New Delhi,170,92,Computer Science,No
+Guru Gobind Singh Indraprastha University,New Delhi,110,55,Information Technology,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,118,76,Information Technology,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,138,96,Information Technology,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,56,16,Information Technology,No
+Guru Gobind Singh Indraprastha University,New Delhi,52,26,Information Technology,No
+Guru Gobind Singh Indraprastha University,New Delhi,110,55,Electricals and Electronics,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,138,77,Electricals and Electronics,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,178,97,Electricals and Electronics,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,98,47,Electricals and Electronics,No
+Guru Gobind Singh Indraprastha University,New Delhi,78,27,Electricals and Electronics,No
+Guru Gobind Singh Indraprastha University,New Delhi,38,37,Electricals and Electronics,No
+Guru Gobind Singh Indraprastha University,New Delhi,110,55,Electronics and Communication,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,142,86,Electronics and Communication,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,22,16,Electronics and Communication,No
+Guru Gobind Singh Indraprastha University,New Delhi,82,36,Electronics and Communication,No
+Guru Gobind Singh Indraprastha University,New Delhi,102,46,Electronics and Communication,No
+Guru Gobind Singh Indraprastha University,New Delhi,110,55,Civil Engineering,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,172,89,Civil Engineering,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,32,19,Civil Engineering,No
+Guru Gobind Singh Indraprastha University,New Delhi,72,49,Civil Engineering,No
+Guru Gobind Singh Indraprastha University,New Delhi,52,39,Civil Engineering,No
+Guru Gobind Singh Indraprastha University,New Delhi,110,55,Mechanical Engineering,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,142,82,Mechanical Engineering,Yes
+Guru Gobind Singh Indraprastha University,New Delhi,16,22,Mechanical Engineering,No
+Guru Gobind Singh Indraprastha University,New Delhi,22,42,Mechanical Engineering,No
+Guru Gobind Singh Indraprastha University,New Delhi,62,32,Mechanical Engineering,No
+Guru Jambheshwar University of Science and Technology,Hisar,150,40,Information Technology,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,158,95,Information Technology,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,164,15,Information Technology,No
+Guru Jambheshwar University of Science and Technology,Hisar,140,35,Information Technology,No
+Guru Jambheshwar University of Science and Technology,Hisar,122,45,Information Technology,No
+Guru Jambheshwar University of Science and Technology,Hisar,150,40,Electronics and Communication,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,174,51,Electronics and Communication,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,194,81,Electronics and Communication,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,34,11,Electronics and Communication,No
+Guru Jambheshwar University of Science and Technology,Hisar,134,31,Electronics and Communication,No
+Guru Jambheshwar University of Science and Technology,Hisar,150,40,Civil Engineering,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,176,56,Civil Engineering,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,196,76,Civil Engineering,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,58,16,Civil Engineering,No
+Guru Jambheshwar University of Science and Technology,Hisar,98,36,Civil Engineering,No
+Guru Jambheshwar University of Science and Technology,Hisar,150,40,Mechanical Engineering,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,174,75,Mechanical Engineering,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,194,85,Mechanical Engineering,Yes
+Guru Jambheshwar University of Science and Technology,Hisar,34,15,Mechanical Engineering,No
+Guru Jambheshwar University of Science and Technology,Hisar,94,35,Mechanical Engineering,No
+Guru Jambheshwar University of Science and Technology,Hisar,74,45,Mechanical Engineering,No
+Guru Nanak Dev University,Amritsar,100,40,Computer Science,Yes
+Guru Nanak Dev University,Amritsar,138,59,Computer Science,Yes
+Guru Nanak Dev University,Amritsar,152,68,Computer Science,Yes
+Guru Nanak Dev University,Amritsar,164,73,Computer Science,Yes
+Guru Nanak Dev University,Amritsar,72,32,Computer Science,No
+Guru Nanak Dev University,Amritsar,78,28,Computer Science,No
+Guru Nanak Dev University,Amritsar,92,16,Computer Science,No
+Guru Nanak Dev University,Amritsar,100,40,Electronics and Communication,Yes
+Guru Nanak Dev University,Amritsar,130,95,Electronics and Communication,Yes
+Guru Nanak Dev University,Amritsar,190,74,Electronics and Communication,Yes
+Guru Nanak Dev University,Amritsar,30,44,Electronics and Communication,No
+Guru Nanak Dev University,Amritsar,70,34,Electronics and Communication,No
+Guru Nanak Dev University,Amritsar,100,40,Civil Engineering,Yes
+Guru Nanak Dev University,Amritsar,190,93,Civil Engineering,Yes
+Guru Nanak Dev University,Amritsar,30,13,Civil Engineering,No
+Guru Nanak Dev University,Amritsar,70,23,Civil Engineering,No
+Guru Nanak Dev University,Amritsar,50,43,Civil Engineering,No
+Guru Nanak Dev University,Amritsar,90,53,Civil Engineering,No
+Guru Nanak Dev University,Amritsar,100,40,Mechanical Engineering,Yes
+Guru Nanak Dev University,Amritsar,126,54,Mechanical Engineering,Yes
+Guru Nanak Dev University,Amritsar,166,84,Mechanical Engineering,Yes
+Guru Nanak Dev University,Amritsar,186,74,Mechanical Engineering,Yes
+Guru Nanak Dev University,Amritsar,26,34,Mechanical Engineering,No
+Guru Nanak Dev University,Amritsar,86,24,Mechanical Engineering,No
+Hindustan Institute of Technology and Science,Chennai,100,65,Computer Science,Yes
+Hindustan Institute of Technology and Science,Chennai,130,88,Computer Science,Yes
+Hindustan Institute of Technology and Science,Chennai,166,98,Computer Science,Yes
+Hindustan Institute of Technology and Science,Chennai,48,18,Computer Science,No
+Hindustan Institute of Technology and Science,Chennai,72,28,Computer Science,No
+Hindustan Institute of Technology and Science,Chennai,24,37,Computer Science,No
+Hindustan Institute of Technology and Science,Chennai,100,65,Information Technology,Yes
+Hindustan Institute of Technology and Science,Chennai,138,99,Information Technology,Yes
+Hindustan Institute of Technology and Science,Chennai,164,89,Information Technology,Yes
+Hindustan Institute of Technology and Science,Chennai,42,19,Information Technology,No
+Hindustan Institute of Technology and Science,Chennai,84,29,Information Technology,No
+Hindustan Institute of Technology and Science,Chennai,68,39,Information Technology,No
+Hindustan Institute of Technology and Science,Chennai,100,65,Electricals and Electronics,Yes
+Hindustan Institute of Technology and Science,Chennai,188,72,Electricals and Electronics,Yes
+Hindustan Institute of Technology and Science,Chennai,88,8,Electricals and Electronics,No
+Hindustan Institute of Technology and Science,Chennai,28,12,Electricals and Electronics,No
+Hindustan Institute of Technology and Science,Chennai,68,32,Electricals and Electronics,No
+Hindustan Institute of Technology and Science,Chennai,100,65,Electronics and Communication,Yes
+Hindustan Institute of Technology and Science,Chennai,130,72,Electronics and Communication,Yes
+Hindustan Institute of Technology and Science,Chennai,170,82,Electronics and Communication,Yes
+Hindustan Institute of Technology and Science,Chennai,30,22,Electronics and Communication,No
+Hindustan Institute of Technology and Science,Chennai,70,32,Electronics and Communication,No
+Hindustan Institute of Technology and Science,Chennai,50,52,Electronics and Communication,No
+Hindustan Institute of Technology and Science,Chennai,100,65,Civil Engineering,Yes
+Hindustan Institute of Technology and Science,Chennai,124,75,Civil Engineering,Yes
+Hindustan Institute of Technology and Science,Chennai,164,85,Civil Engineering,Yes
+Hindustan Institute of Technology and Science,Chennai,4,15,Civil Engineering,No
+Hindustan Institute of Technology and Science,Chennai,26,35,Civil Engineering,No
+Hindustan Institute of Technology and Science,Chennai,44,45,Civil Engineering,No
+Hindustan Institute of Technology and Science,Chennai,100,65,Mechanical Engineering,Yes
+Hindustan Institute of Technology and Science,Chennai,168,70,Mechanical Engineering,Yes
+Hindustan Institute of Technology and Science,Chennai,188,80,Mechanical Engineering,Yes
+Hindustan Institute of Technology and Science,Chennai,8,10,Mechanical Engineering,No
+Hindustan Institute of Technology and Science,Chennai,28,40,Mechanical Engineering,No
+Hindustan Institute of Technology and Science,Chennai,68,30,Mechanical Engineering,No
+Indraprastha Institute of Information Technology,New Delhi,110,80,Computer Science,Yes
+Indraprastha Institute of Information Technology,New Delhi,136,91,Computer Science,Yes
+Indraprastha Institute of Information Technology,New Delhi,170,81,Computer Science,Yes
+Indraprastha Institute of Information Technology,New Delhi,184,88,Computer Science,Yes
+Indraprastha Institute of Information Technology,New Delhi,64,41,Computer Science,No
+Indraprastha Institute of Information Technology,New Delhi,30,31,Computer Science,No
+Indraprastha Institute of Information Technology,New Delhi,18,21,Computer Science,No
+Indraprastha Institute of Information Technology,New Delhi,110,80,Information Technology,Yes
+Indraprastha Institute of Information Technology,New Delhi,138,92,Information Technology,Yes
+Indraprastha Institute of Information Technology,New Delhi,198,82,Information Technology,Yes
+Indraprastha Institute of Information Technology,New Delhi,54,12,Information Technology,No
+Indraprastha Institute of Information Technology,New Delhi,78,32,Information Technology,No
+Indraprastha Institute of Information Technology,New Delhi,34,42,Information Technology,No
+Indraprastha Institute of Information Technology,New Delhi,110,80,Electronics and Communication,Yes
+Indraprastha Institute of Information Technology,New Delhi,186,88,Electronics and Communication,Yes
+Indraprastha Institute of Information Technology,New Delhi,146,93,Electronics and Communication,Yes
+Indraprastha Institute of Information Technology,New Delhi,126,99,Electronics and Communication,Yes
+Indraprastha Institute of Information Technology,New Delhi,6,13,Electronics and Communication,No
+Indraprastha Institute of Information Technology,New Delhi,60,73,Electronics and Communication,No
+International Institute of Information Technology,Hyderabad,150,75,Computer Science,Yes
+International Institute of Information Technology,Hyderabad,168,87,Computer Science,Yes
+International Institute of Information Technology,Hyderabad,186,97,Computer Science,Yes
+International Institute of Information Technology,Hyderabad,4,47,Computer Science,No
+International Institute of Information Technology,Hyderabad,130,67,Computer Science,No
+International Institute of Information Technology,Hyderabad,102,17,Computer Science,No
+International Institute of Information Technology,Hyderabad,150,75,Electronics and Communication,Yes
+International Institute of Information Technology,Hyderabad,170,85,Electronics and Communication,Yes
+International Institute of Information Technology,Hyderabad,190,95,Electronics and Communication,Yes
+International Institute of Information Technology,Hyderabad,110,65,Electronics and Communication,No
+International Institute of Information Technology,Hyderabad,130,55,Electronics and Communication,No
+Jadavpur University,Kolkata,120,55,Computer Science,Yes
+Jadavpur University,Kolkata,184,75,Computer Science,Yes
+Jadavpur University,Kolkata,170,85,Computer Science,Yes
+Jadavpur University,Kolkata,146,95,Computer Science,Yes
+Jadavpur University,Kolkata,124,79,Computer Science,Yes
+Jadavpur University,Kolkata,124,15,Computer Science,No
+Jadavpur University,Kolkata,124,35,Computer Science,No
+Jadavpur University,Kolkata,124,25,Computer Science,No
+Jadavpur University,Kolkata,124,4,Computer Science,No
+Jadavpur University,Kolkata,124,22,Computer Science,No
+Jadavpur University,Kolkata,120,55,Information Technology,Yes
+Jadavpur University,Kolkata,150,84,Information Technology,Yes
+Jadavpur University,Kolkata,190,94,Information Technology,Yes
+Jadavpur University,Kolkata,42,14,Information Technology,No
+Jadavpur University,Kolkata,70,34,Information Technology,No
+Jadavpur University,Kolkata,52,41,Information Technology,No
+Jadavpur University,Kolkata,28,24,Information Technology,No
+Jadavpur University,Kolkata,120,55,Civil Engineering,Yes
+Jadavpur University,Kolkata,152,76,Civil Engineering,Yes
+Jadavpur University,Kolkata,192,86,Civil Engineering,Yes
+Jadavpur University,Kolkata,172,96,Civil Engineering,Yes
+Jadavpur University,Kolkata,32,16,Civil Engineering,No
+Jadavpur University,Kolkata,72,46,Civil Engineering,No
+Jadavpur University,Kolkata,120,55,Mechanical Engineering,Yes
+Jadavpur University,Kolkata,148,73,Mechanical Engineering,Yes
+Jadavpur University,Kolkata,168,83,Mechanical Engineering,Yes
+Jadavpur University,Kolkata,188,93,Mechanical Engineering,Yes
+Jadavpur University,Kolkata,28,13,Mechanical Engineering,No
+Jadavpur University,Kolkata,48,43,Mechanical Engineering,No
+Jamia Hamdard, New Delhi,110,60,Computer Science,Yes
+Jamia Hamdard, New Delhi,138,76,Computer Science,Yes
+Jamia Hamdard, New Delhi,166,95,Computer Science,Yes
+Jamia Hamdard, New Delhi,46,55,Computer Science,No
+Jamia Hamdard, New Delhi,92,43,Computer Science,No
+Jamia Hamdard, New Delhi,110,60,Electronics and Communication,Yes
+Jamia Hamdard, New Delhi,192,85,Electronics and Communication,Yes
+Jamia Hamdard, New Delhi,32,15,Electronics and Communication,No
+Jamia Hamdard, New Delhi,72,45,Electronics and Communication,No
+Jamia Hamdard, New Delhi,92,35,Electronics and Communication,No
+Jamia Millia Islamia, New Delhi,180,65,Computer Science,Yes
+Jamia Millia Islamia, New Delhi,164,92,Computer Science,Yes
+Jamia Millia Islamia, New Delhi,126,53,Computer Science,Yes
+Jamia Millia Islamia, New Delhi,156,88,Computer Science,Yes
+Jamia Millia Islamia, New Delhi,100,50,Computer Science,Yes
+Jamia Millia Islamia, New Delhi,84,45,Computer Science,No
+Jamia Millia Islamia, New Delhi,46,30,Computer Science,No
+Jamia Millia Islamia, New Delhi,20,26,Computer Science,No
+Jamia Millia Islamia, New Delhi,98,16,Computer Science,No
+Jamia Millia Islamia, New Delhi,64,2,Computer Science,No
+Jamia Millia Islamia, New Delhi,26,28,Computer Science,No
+Jamia Millia Islamia, New Delhi,100,50,Electronics and Communication,Yes
+Jamia Millia Islamia, New Delhi,178,76,Electronics and Communication,Yes
+Jamia Millia Islamia, New Delhi,198,96,Electronics and Communication,Yes
+Jamia Millia Islamia, New Delhi,78,16,Electronics and Communication,No
+Jamia Millia Islamia, New Delhi,38,36,Electronics and Communication,No
+Jamia Millia Islamia, New Delhi,98,26,Electronics and Communication,No
+Jamia Millia Islamia, New Delhi,100,50,Civil Engineering,Yes
+Jamia Millia Islamia, New Delhi,132,66,Civil Engineering,Yes
+Jamia Millia Islamia, New Delhi,192,86,Civil Engineering,Yes
+Jamia Millia Islamia, New Delhi,32,26,Civil Engineering,No
+Jamia Millia Islamia, New Delhi,72,36,Civil Engineering,No
+Jamia Millia Islamia, New Delhi,92,46,Civil Engineering,No
+Jamia Millia Islamia, New Delhi,100,50,Mechanical Engineering,Yes
+Jamia Millia Islamia, New Delhi,124,73,Mechanical Engineering,Yes
+Jamia Millia Islamia, New Delhi,172,83,Mechanical Engineering,Yes
+Jamia Millia Islamia, New Delhi,44,13,Mechanical Engineering,No
+Jamia Millia Islamia, New Delhi,24,43,Mechanical Engineering,No
+Jamia Millia Islamia, New Delhi,64,33,Mechanical Engineering,No
+Jawaharlal Nehru Technological University,Kakinada,150,60,Computer Science,Yes
+Jawaharlal Nehru Technological University,Kakinada,162,76,Computer Science,Yes
+Jawaharlal Nehru Technological University,Kakinada,158,96,Computer Science,Yes
+Jawaharlal Nehru Technological University,Kakinada,124,16,Computer Science,No
+Jawaharlal Nehru Technological University,Kakinada,28,36,Computer Science,No
+Jawaharlal Nehru Technological University,Kakinada,64,26,Computer Science,No
+Jawaharlal Nehru Technological University,Kakinada,150,60,Information Technology,Yes
+Jawaharlal Nehru Technological University,Kakinada,194,78,Information Technology,Yes
+Jawaharlal Nehru Technological University,Kakinada,140,18,Information Technology,No
+Jawaharlal Nehru Technological University,Kakinada,136,8,Information Technology,No
+Jawaharlal Nehru Technological University,Kakinada,42,28,Information Technology,No
+Jawaharlal Nehru Technological University,Kakinada,150,60,Electricals and Electronics,Yes
+Jawaharlal Nehru Technological University,Kakinada,166,72,Electricals and Electronics,Yes
+Jawaharlal Nehru Technological University,Kakinada,186,82,Electricals and Electronics,Yes
+Jawaharlal Nehru Technological University,Kakinada,176,92,Electricals and Electronics,Yes
+Jawaharlal Nehru Technological University,Kakinada,66,22,Electricals and Electronics,No
+Jawaharlal Nehru Technological University,Kakinada,86,32,Electricals and Electronics,No
+Jawaharlal Nehru Technological University,Kakinada,150,60,Electronics and Communication,Yes
+Jawaharlal Nehru Technological University,Kakinada,172,79,Electronics and Communication,Yes
+Jawaharlal Nehru Technological University,Kakinada,192,89,Electronics and Communication,Yes
+Jawaharlal Nehru Technological University,Kakinada,132,19,Electronics and Communication,No
+Jawaharlal Nehru Technological University,Kakinada,32,49,Electronics and Communication,No
+Jawaharlal Nehru Technological University,Kakinada,150,60,Civil Engineering,Yes
+Jawaharlal Nehru Technological University,Kakinada,168,81,Civil Engineering,Yes
+Jawaharlal Nehru Technological University,Kakinada,188,71,Civil Engineering,Yes
+Jawaharlal Nehru Technological University,Kakinada,28,21,Civil Engineering,No
+Jawaharlal Nehru Technological University,Kakinada,42,51,Civil Engineering,No
+Jawaharlal Nehru Technological University,Kakinada,150,60,Mechanical Engineering,Yes
+Jawaharlal Nehru Technological University,Kakinada,178,79,Mechanical Engineering,Yes
+Jawaharlal Nehru Technological University,Kakinada,198,89,Mechanical Engineering,Yes
+Jawaharlal Nehru Technological University,Kakinada,58,59,Mechanical Engineering,No
+Jawaharlal Nehru Technological University,Kakinada,78,29,Mechanical Engineering,No
+Jawaharlal Nehru Technological University,Kakinada,38,19,Mechanical Engineering,No
+Jaypee Institute of Information Technology,Noida,160,80,Information Technology,Yes
+Jaypee Institute of Information Technology,Noida,170,90,Information Technology,Yes
+Jaypee Institute of Information Technology,Noida,184,100,Information Technology,Yes
+Jaypee Institute of Information Technology,Noida,150,10,Information Technology,No
+Jaypee Institute of Information Technology,Noida,132,20,Information Technology,No
+Jaypee University of Information Technology,Solan,100,65,Information Technology,Yes
+Jaypee University of Information Technology,Solan,128,89,Information Technology,Yes
+Jaypee University of Information Technology,Solan,168,79,Information Technology,Yes
+Jaypee University of Information Technology,Solan,88,19,Information Technology,No
+Jaypee University of Information Technology,Solan,62,59,Information Technology,No
+Jaypee University of Information Technology,Solan,48,9,Information Technology,No
+JSS Science and Technology University,Mysuru,90,85,Information Technology,Yes
+JSS Science and Technology University,Mysuru,100,91,Information Technology,Yes
+JSS Science and Technology University,Mysuru,172,88,Information Technology,Yes
+JSS Science and Technology University,Mysuru,64,11,Information Technology,No
+JSS Science and Technology University,Mysuru,34,31,Information Technology,No
+JSS Science and Technology University,Mysuru,90,85,Electricals and Electronics,Yes
+JSS Science and Technology University,Mysuru,182,90,Electricals and Electronics,Yes
+JSS Science and Technology University,Mysuru,162,88,Electricals and Electronics,Yes
+JSS Science and Technology University,Mysuru,142,97,Electricals and Electronics,Yes
+JSS Science and Technology University,Mysuru,22,10,Electricals and Electronics,No
+JSS Science and Technology University,Mysuru,46,20,Electricals and Electronics,No
+Kakatiya University,Hanamkonda,100,40,Computer Science,Yes
+Kakatiya University,Hanamkonda,136,84,Computer Science,Yes
+Kakatiya University,Hanamkonda,164,94,Computer Science,Yes
+Kakatiya University,Hanamkonda,58,14,Computer Science,No
+Kakatiya University,Hanamkonda,28,34,Computer Science,No
+Kakatiya University,Hanamkonda,100,40,Information Technology,Yes
+Kakatiya University,Hanamkonda,138,88,Information Technology,Yes
+Kakatiya University,Hanamkonda,184,58,Information Technology,Yes
+Kakatiya University,Hanamkonda,30,98,Information Technology,Yes
+Kakatiya University,Hanamkonda,90,18,Information Technology,No
+Kakatiya University,Hanamkonda,14,38,Information Technology,No
+Kakatiya University,Hanamkonda,100,40,Electricals and Electronics,Yes
+Kakatiya University,Hanamkonda,148,81,Electricals and Electronics,Yes
+Kakatiya University,Hanamkonda,44,21,Electricals and Electronics,No
+Kakatiya University,Hanamkonda,88,31,Electricals and Electronics,No
+Kakatiya University,Hanamkonda,24,11,Electricals and Electronics,No
+Kakatiya University,Hanamkonda,100,40,Electronics and Communication,Yes
+Kakatiya University,Hanamkonda,154,88,Electronics and Communication,Yes
+Kakatiya University,Hanamkonda,34,18,Electronics and Communication,No
+Kakatiya University,Hanamkonda,54,8,Electronics and Communication,No
+Kakatiya University,Hanamkonda,74,28,Electronics and Communication,No
+Kakatiya University,Hanamkonda,14,38,Electronics and Communication,No
+Kakatiya University,Hanamkonda,100,40,Civil Engineering,Yes
+Kakatiya University,Hanamkonda,168,81,Civil Engineering,Yes
+Kakatiya University,Hanamkonda,16,21,Civil Engineering,No
+Kakatiya University,Hanamkonda,28,71,Civil Engineering,No
+Kakatiya University,Hanamkonda,68,31,Civil Engineering,No
+Kakatiya University,Hanamkonda,100,40,Mechanical Engineering,Yes
+Kakatiya University,Hanamkonda,136,58,Mechanical Engineering,Yes
+Kakatiya University,Hanamkonda,196,88,Mechanical Engineering,Yes
+Kakatiya University,Hanamkonda,36,18,Mechanical Engineering,No
+Kakatiya University,Hanamkonda,76,48,Mechanical Engineering,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,110,60,Computer Science,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,136,77,Computer Science,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,146,86,Computer Science,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,182,95,Computer Science,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,98,58,Computer Science,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,46,45,Computer Science,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,38,32,Computer Science,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,110,60,Information Technology,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,138,72,Information Technology,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,150,92,Information Technology,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,50,12,Information Technology,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,38,2,Information Technology,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,48,52,Information Technology,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,110,60,Electricals and Electronics,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,134,71,Electricals and Electronics,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,182,91,Electricals and Electronics,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,82,11,Electricals and Electronics,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,62,41,Electricals and Electronics,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,110,60,Electronics and Communication,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,128,72,Electronics and Communication,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,168,82,Electronics and Communication,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,88,12,Electronics and Communication,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,48,32,Electronics and Communication,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,28,42,Electronics and Communication,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,110,60,Civil Engineering,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,154,82,Civil Engineering,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,34,12,Civil Engineering,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,68,32,Civil Engineering,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,48,42,Civil Engineering,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,110,60,Mechanical Engineering,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,142,90,Mechanical Engineering,Yes
+Kalasalingam Academy of Research and Education, Krishnan Kovil,22,50,Mechanical Engineering,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,62,20,Mechanical Engineering,No
+Kalasalingam Academy of Research and Education, Krishnan Kovil,82,10,Mechanical Engineering,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,120,80,Computer Science,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,198,99,Computer Science,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,136,85,Computer Science,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,146,82,Computer Science,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,158,92,Computer Science,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,56,68,Computer Science,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,110,72,Computer Science,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,70,45,Computer Science,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,120,80,Information Technology,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,158,86,Information Technology,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,164,96,Information Technology,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,186,99,Information Technology,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,104,76,Information Technology,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,92,56,Information Technology,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,64,16,Information Technology,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,120,80,Electricals and Electronics,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,152,88,Electricals and Electronics,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,172,98,Electricals and Electronics,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,106,19,Electricals and Electronics,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,74,78,Electricals and Electronics,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,42,38,Electricals and Electronics,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,120,80,Electronics and Communication,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,164,98,Electronics and Communication,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,24,18,Electronics and Communication,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,64,38,Electronics and Communication,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,44,18,Electronics and Communication,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,120,80,Civil Engineering,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,182,89,Civil Engineering,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,162,99,Civil Engineering,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,102,19,Civil Engineering,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,48,79,Civil Engineering,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,120,80,Mechanical Engineering,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,156,97,Mechanical Engineering,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,176,87,Mechanical Engineering,Yes
+Kalinga Institute of Industrial Technology,Bhubaneshwar,36,17,Mechanical Engineering,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,16,47,Mechanical Engineering,No
+Kalinga Institute of Industrial Technology,Bhubaneshwar,76,37,Mechanical Engineering,No
+Kalinga University,Naya Raipur,110,60,Computer Science,Yes
+Kalinga University,Naya Raipur,124,77,Computer Science,Yes
+Kalinga University,Naya Raipur,188,87,Computer Science,Yes
+Kalinga University,Naya Raipur,166,97,Computer Science,Yes
+Kalinga University,Naya Raipur,64,17,Computer Science,No
+Kalinga University,Naya Raipur,84,27,Computer Science,No
+Kalinga University,Naya Raipur,42,7,Computer Science,No
+Kalinga University,Naya Raipur,172,60,Electronics and Communication,Yes
+Kalinga University,Naya Raipur,132,89,Electronics and Communication,Yes
+Kalinga University,Naya Raipur,52,29,Electronics and Communication,No
+Kalinga University,Naya Raipur,72,49,Electronics and Communication,No
+Kalinga University,Naya Raipur,32,59,Electronics and Communication,No
+Kalinga University,Naya Raipur,110,60,Civil Engineering,Yes
+Kalinga University,Naya Raipur,162,83,Civil Engineering,Yes
+Kalinga University,Naya Raipur,182,93,Civil Engineering,Yes
+Kalinga University,Naya Raipur,42,13,Civil Engineering,No
+Kalinga University,Naya Raipur,62,43,Civil Engineering,No
+Kalinga University,Naya Raipur,82,53,Civil Engineering,No
+Kalinga University,Naya Raipur,110,60,Mechanical Engineering,Yes
+Kalinga University,Naya Raipur,138,79,Mechanical Engineering,Yes
+Kalinga University,Naya Raipur,178,89,Mechanical Engineering,Yes
+Kalinga University,Naya Raipur,38,29,Mechanical Engineering,No
+Kalinga University,Naya Raipur,18,19,Mechanical Engineering,No
+Kalinga University,Naya Raipur,78,39,Mechanical Engineering,No
+Kalyani University,Kalyani,100,50,Information Technology,Yes
+Kalyani University,Kalyani,138,74,Information Technology,Yes
+Kalyani University,Kalyani,166,84,Information Technology,Yes
+Kalyani University,Kalyani,84,14,Information Technology,No
+Kalyani University,Kalyani,66,44,Information Technology,No
+Kalyani University,Kalyani,20,34,Information Technology,No
+Kalyani University,Kalyani,100,50,Electronics and Communication,Yes
+Kalyani University,Kalyani,184,64,Electronics and Communication,Yes
+Kalyani University,Kalyani,144,85,Electronics and Communication,Yes
+Kalyani University,Kalyani,84,15,Electronics and Communication,No
+Kalyani University,Kalyani,4,35,Electronics and Communication,No
+Kalyani University,Kalyani,64,45,Electronics and Communication,No
+Karpagam Academy of Higher Education,Coimbatore,100,60,Electricals and Electronics,Yes
+Karpagam Academy of Higher Education,Coimbatore,154,99,Electricals and Electronics,Yes
+Karpagam Academy of Higher Education,Coimbatore,174,79,Electricals and Electronics,Yes
+Karpagam Academy of Higher Education,Coimbatore,94,19,Electricals and Electronics,No
+Karpagam Academy of Higher Education,Coimbatore,2,39,Electricals and Electronics,No
+Karpagam Academy of Higher Education,Coimbatore,74,49,Electricals and Electronics,No
+Karunya University,Coimbatore,100,50,Computer Science,Yes
+Karunya University,Coimbatore,164,67,Computer Science,Yes
+Karunya University,Coimbatore,84,17,Computer Science,No
+Karunya University,Coimbatore,70,27,Computer Science,No
+Karunya University,Coimbatore,38,47,Computer Science,No
+Karunya University,Coimbatore,100,50,Electronics and Communication,Yes
+Karunya University,Coimbatore,130,71,Electronics and Communication,Yes
+Karunya University,Coimbatore,190,81,Electronics and Communication,Yes
+Karunya University,Coimbatore,90,11,Electronics and Communication,No
+Karunya University,Coimbatore,30,41,Electronics and Communication,No
+Karunya University,Coimbatore,100,50,Civil Engineering,Yes
+Karunya University,Coimbatore,122,73,Civil Engineering,Yes
+Karunya University,Coimbatore,182,83,Civil Engineering,Yes
+Karunya University,Coimbatore,162,93,Civil Engineering,Yes
+Karunya University,Coimbatore,22,13,Civil Engineering,No
+Karunya University,Coimbatore,2,43,Civil Engineering,No
+Karunya University,Coimbatore,100,50,Mechanical Engineering,Yes
+Karunya University,Coimbatore,128,60,Mechanical Engineering,Yes
+Karunya University,Coimbatore,168,80,Mechanical Engineering,Yes
+Karunya University,Coimbatore,28,10,Mechanical Engineering,No
+Karunya University,Coimbatore,48,40,Mechanical Engineering,No
+Karunya University,Coimbatore,68,30,Mechanical Engineering,No
+KL University Guntur,Guntur,120,75,Computer Science,Yes
+KL University Guntur,Guntur,154,85,Computer Science,Yes
+KL University Guntur,Guntur,152,96,Computer Science,Yes
+KL University Guntur,Guntur,164,89,Computer Science,Yes
+KL University Guntur,Guntur,112,70,Computer Science,No
+KL University Guntur,Guntur,84,65,Computer Science,No
+KL University Guntur,Guntur,60,33,Computer Science,No
+KL University Guntur,Guntur,120,75,Civil Engineering,Yes
+KL University Guntur,Guntur,144,90,Civil Engineering,Yes
+KL University Guntur,Guntur,18,40,Civil Engineering,No
+KL University Guntur,Guntur,38,20,Civil Engineering,No
+KL University Guntur,Guntur,78,50,Civil Engineering,No
+KL University Guntur,Guntur,98,60,Civil Engineering,No
+KL University Guntur,Guntur,120,75,Mechanical Engineering,Yes
+KL University Guntur,Guntur,140,79,Mechanical Engineering,Yes
+KL University Guntur,Guntur,180,89,Mechanical Engineering,Yes
+KL University Guntur,Guntur,20,19,Mechanical Engineering,No
+KL University Guntur,Guntur,80,49,Mechanical Engineering,No
+KL University Guntur,Guntur,100,39,Mechanical Engineering,No
+KLE Technological University,Hubli,120,40,Electricals and Electronics,Yes
+KLE Technological University,Hubli,144,50,Electricals and Electronics,Yes
+KLE Technological University,Hubli,184,80,Electricals and Electronics,Yes
+KLE Technological University,Hubli,24,20,Electricals and Electronics,No
+KLE Technological University,Hubli,84,40,Electricals and Electronics,No
+Koneru Lakshmaiah Education Foundation,Guntur,170,55,Electricals and Electronics,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,178,700,Electricals and Electronics,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,184,80,Electricals and Electronics,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,144,20,Electricals and Electronics,No
+Koneru Lakshmaiah Education Foundation,Guntur,68,10,Electricals and Electronics,No
+Koneru Lakshmaiah Education Foundation,Guntur,38,30,Electricals and Electronics,No
+Koneru Lakshmaiah Education Foundation,Guntur,170,55,Electronics and Communication,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,186,79,Electronics and Communication,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,176,89,Electronics and Communication,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,172,99,Electronics and Communication,Yes
+Koneru Lakshmaiah Education Foundation,Guntur,132,19,Electronics and Communication,No
+Koneru Lakshmaiah Education Foundation,Guntur,152,39,Electronics and Communication,No
+Lovely Professional University,Phagwara,120,50,Computer Science,Yes
+Lovely Professional University,Phagwara,146,66,Computer Science,Yes
+Lovely Professional University,Phagwara,190,83,Computer Science,Yes
+Lovely Professional University,Phagwara,164,75,Computer Science,Yes
+Lovely Professional University,Phagwara,104,42,Computer Science,No
+Lovely Professional University,Phagwara,24,23,Computer Science,No
+Lovely Professional University,Phagwara,120,50,Information Technology,Yes
+Lovely Professional University,Phagwara,144,64,Information Technology,Yes
+Lovely Professional University,Phagwara,184,85,Information Technology,Yes
+Lovely Professional University,Phagwara,24,15,Information Technology,No
+Lovely Professional University,Phagwara,58,35,Information Technology,No
+Lovely Professional University,Phagwara,2,25,Information Technology,No
+Lovely Professional University,Phagwara,120,50,Electricals and Electronics,Yes
+Lovely Professional University,Phagwara,184,73,Electricals and Electronics,Yes
+Lovely Professional University,Phagwara,160,83,Electricals and Electronics,Yes
+Lovely Professional University,Phagwara,24,13,Electricals and Electronics,No
+Lovely Professional University,Phagwara,64,43,Electricals and Electronics,No
+Lovely Professional University,Phagwara,120,50,Electronics and Communication,Yes
+Lovely Professional University,Phagwara,154,65,Electronics and Communication,Yes
+Lovely Professional University,Phagwara,174,85,Electronics and Communication,Yes
+Lovely Professional University,Phagwara,94,15,Electronics and Communication,No
+Lovely Professional University,Phagwara,34,45,Electronics and Communication,No
+Lovely Professional University,Phagwara,120,50,Civil Engineering,Yes
+Lovely Professional University,Phagwara,146,83,Civil Engineering,Yes
+Lovely Professional University,Phagwara,166,73,Civil Engineering,Yes
+Lovely Professional University,Phagwara,26,13,Civil Engineering,No
+Lovely Professional University,Phagwara,106,23,Civil Engineering,No
+Lovely Professional University,Phagwara,120,50,Mechanical Engineering,Yes
+Lovely Professional University,Phagwara,170,84,Mechanical Engineering,Yes
+Lovely Professional University,Phagwara,110,14,Mechanical Engineering,No
+Lovely Professional University,Phagwara,30,34,Mechanical Engineering,No
+Lovely Professional University,Phagwara,50,44,Mechanical Engineering,No
+Malla Reddy University,Hyderabad,90,40,Electricals and Electronics,Yes
+Malla Reddy University,Hyderabad,118,84,Electricals and Electronics,Yes
+Malla Reddy University,Hyderabad,172,74,Electricals and Electronics,Yes
+Malla Reddy University,Hyderabad,92,14,Electricals and Electronics,No
+Malla Reddy University,Hyderabad,52,23,Electricals and Electronics,No
+Malla Reddy University,Hyderabad,32,34,Electricals and Electronics,No
+Manipal University,Jaipur,100,50,Information Technology,Yes
+Manipal University,Jaipur,192,79,Information Technology,Yes
+Manipal University,Jaipur,138,99,Information Technology,Yes
+Manipal University,Jaipur,80,19,Information Technology,No
+Manipal University,Jaipur,68,39,Information Technology,No
+Manipal University,Jaipur,10,9,Information Technology,No
+Manipal University,Jaipur,100,50,Electricals and Electronics,Yes
+Manipal University,Jaipur,150,98,Electricals and Electronics,Yes
+Manipal University,Jaipur,70,18,Electricals and Electronics,No
+Manipal University,Jaipur,50,38,Electricals and Electronics,No
+Manipal University,Jaipur,10,28,Electricals and Electronics,No
+Manipal University,Jaipur,100,50,Mechanical Engineering,Yes
+Manipal University,Jaipur,156,75,Mechanical Engineering,Yes
+Manipal University,Jaipur,196,85,Mechanical Engineering,Yes
+Manipal University,Jaipur,36,15,Mechanical Engineering,No
+Manipal University,Jaipur,76,45,Mechanical Engineering,No
+Manipal University,Jaipur,96,35,Mechanical Engineering,No
+Mizoram University,Aizawl,100,45,Computer Science,Yes
+Mizoram University,Aizawl,124,52,Computer Science,Yes
+Mizoram University,Aizawl,146,68,Computer Science,Yes
+Mizoram University,Aizawl,168,96,Computer Science,Yes
+Mizoram University,Aizawl,46,3,Computer Science,No
+Mizoram University,Aizawl,72,42,Computer Science,No
+Mizoram University,Aizawl,20,37,Computer Science,No
+Mizoram University,Aizawl,100,45,Information Technology,Yes
+Mizoram University,Aizawl,192,53,Information Technology,Yes
+Mizoram University,Aizawl,128,73,Information Technology,Yes
+Mizoram University,Aizawl,144,93,Information Technology,Yes
+Mizoram University,Aizawl,24,13,Information Technology,No
+Mizoram University,Aizawl,56,23,Information Technology,No
+Mizoram University,Aizawl,100,45,Electronics and Communication,Yes
+Mizoram University,Aizawl,124,88,Electronics and Communication,Yes
+Mizoram University,Aizawl,184,78,Electronics and Communication,Yes
+Mizoram University,Aizawl,44,18,Electronics and Communication,No
+Mizoram University,Aizawl,64,48,Electronics and Communication,No
+Mizoram University,Aizawl,24,38,Electronics and Communication,No
+Mizoram University,Aizawl,100,45,Civil Engineering,Yes
+Mizoram University,Aizawl,138,60,Civil Engineering,Yes
+Mizoram University,Aizawl,198,80,Civil Engineering,Yes
+Mizoram University,Aizawl,38,20,Civil Engineering,No
+Mizoram University,Aizawl,78,30,Civil Engineering,No
+Mizoram University,Aizawl,100,45,Mechanical Engineering,Yes
+Mizoram University,Aizawl,130,83,Mechanical Engineering,Yes
+Mizoram University,Aizawl,190,73,Mechanical Engineering,Yes
+Mizoram University,Aizawl,30,43,Mechanical Engineering,No
+Mizoram University,Aizawl,50,23,Mechanical Engineering,No
+Netaji Subhas University of Technology,New Delhi,120,60,Computer Science,Yes
+Netaji Subhas University of Technology,New Delhi,144,87,Computer Science,Yes
+Netaji Subhas University of Technology,New Delhi,166,77,Computer Science,Yes
+Netaji Subhas University of Technology,New Delhi,74,17,Computer Science,No
+Netaji Subhas University of Technology,New Delhi,30,7,Computer Science,No
+Netaji Subhas University of Technology,New Delhi,50,57,Computer Science,No
+Netaji Subhas University of Technology,New Delhi,120,60,Information Technology,Yes
+Netaji Subhas University of Technology,New Delhi,138,76,Information Technology,Yes
+Netaji Subhas University of Technology,New Delhi,146,86,Information Technology,Yes
+Netaji Subhas University of Technology,New Delhi,34,16,Information Technology,No
+Netaji Subhas University of Technology,New Delhi,50,36,Information Technology,No
+Netaji Subhas University of Technology,New Delhi,104,56,Information Technology,No
+Netaji Subhas University of Technology,New Delhi,120,60,Electronics and Communication,Yes
+Netaji Subhas University of Technology,New Delhi,150,77,Electronics and Communication,Yes
+Netaji Subhas University of Technology,New Delhi,190,87,Electronics and Communication,Yes
+Netaji Subhas University of Technology,New Delhi,30,18,Electronics and Communication,No
+Netaji Subhas University of Technology,New Delhi,50,47,Electronics and Communication,No
+Netaji Subhas University of Technology,New Delhi,70,37,Electronics and Communication,No
+Netaji Subhas University of Technology,New Delhi,120,60,Mechanical Engineering,Yes
+Netaji Subhas University of Technology,New Delhi,152,77,Mechanical Engineering,Yes
+Netaji Subhas University of Technology,New Delhi,172,87,Mechanical Engineering,Yes
+Netaji Subhas University of Technology,New Delhi,32,17,Mechanical Engineering,No
+Netaji Subhas University of Technology,New Delhi,12,47,Mechanical Engineering,No
+NIMS University,Jaipur,100,65,Computer Science,Yes
+NIMS University,Jaipur,180,85,Computer Science,Yes
+NIMS University,Jaipur,74,15,Computer Science,No
+NIMS University,Jaipur,48,25,Computer Science,No
+NIMS University,Jaipur,6,5,Computer Science,No
+NIMS University,Jaipur,100,65,Information Technology,Yes
+NIMS University,Jaipur,138,76,Information Technology,Yes
+NIMS University,Jaipur,144,96,Information Technology,Yes
+NIMS University,Jaipur,20,16,Information Technology,No
+NIMS University,Jaipur,84,26,Information Technology,No
+NIMS University,Jaipur,100,65,Electronics and Communication,Yes
+NIMS University,Jaipur,128,73,Electronics and Communication,Yes
+NIMS University,Jaipur,188,83,Electronics and Communication,Yes
+NIMS University,Jaipur,28,33,Electronics and Communication,No
+NIMS University,Jaipur,42,43,Electronics and Communication,No
+NIMS University,Jaipur,100,65,Civil Engineering,Yes
+NIMS University,Jaipur,132,88,Civil Engineering,Yes
+NIMS University,Jaipur,152,98,Civil Engineering,Yes
+NIMS University,Jaipur,172,78,Civil Engineering,Yes
+NIMS University,Jaipur,32,18,Civil Engineering,No
+NIMS University,Jaipur,92,48,Civil Engineering,No
+NIMS University,Jaipur,100,65,Mechanical Engineering,Yes
+NIMS University,Jaipur,124,76,Mechanical Engineering,Yes
+NIMS University,Jaipur,164,86,Mechanical Engineering,Yes
+NIMS University,Jaipur,44,16,Mechanical Engineering,No
+NIMS University,Jaipur,24,36,Mechanical Engineering,No
+North Eastern Hill University,Shillong,120,60,Information Technology,Yes
+North Eastern Hill University,Shillong,168,74,Information Technology,Yes
+North Eastern Hill University,Shillong,190,84,Information Technology,Yes
+North Eastern Hill University,Shillong,56,9,Information Technology,No
+North Eastern Hill University,Shillong,84,44,Information Technology,No
+North Eastern Hill University,Shillong,38,14,Information Technology,No
+North Eastern Hill University,Shilong,130,60,Electronics and Communication,Yes
+North Eastern Hill University,Shilong,160,72,Electronics and Communication,Yes
+North Eastern Hill University,Shilong,180,82,Electronics and Communication,Yes
+North Eastern Hill University,Shilong,80,22,Electronics and Communication,No
+North Eastern Hill University,Shilong,20,52,Electronics and Communication,No
+North Eastern Hill University,Shilong,60,12,Electronics and Communication,No
+PES University,Bangalore,100,75,Electricals and Electronics,Yes
+PES University,Bangalore,132,88,Electricals and Electronics,Yes
+PES University,Bangalore,192,98,Electricals and Electronics,Yes
+PES University,Bangalore,32,18,Electricals and Electronics,No
+PES University,Bangalore,16,58,Electricals and Electronics,No
+Rabindranath Tagore University,Raisen,90,65,Electricals and Electronics,Yes
+Rabindranath Tagore University,Raisen,124,80,Electricals and Electronics,Yes
+Rabindranath Tagore University,Raisen,44,30,Electricals and Electronics,No
+Rabindranath Tagore University,Raisen,84,9,Electricals and Electronics,No
+Rabindranath Tagore University,Raisen,64,30,Electricals and Electronics,No
+Rabindranath Tagore University,Raisen,24,50,Electricals and Electronics,No
+Radha Govind University,Ramgarh,100,85,Information Technology,Yes
+Radha Govind University,Ramgarh,140,99,Information Technology,Yes
+Radha Govind University,Ramgarh,160,89,Information Technology,Yes
+Radha Govind University,Ramgarh,80,79,Information Technology,No
+Radha Govind University,Ramgarh,60,59,Information Technology,No
+Radha Govind University,Ramgarh,100,85,Electricals and Electronics,Yes
+Radha Govind University,Ramgarh,130,92,Electricals and Electronics,Yes
+Radha Govind University,Ramgarh,190,93,Electricals and Electronics,Yes
+Radha Govind University,Ramgarh,30,13,Electricals and Electronics,No
+Radha Govind University,Ramgarh,10,23,Electricals and Electronics,No
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,100,88,Information Technology,Yes
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,128,90,Information Technology,Yes
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,172,91,Information Technology,Yes
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,80,19,Information Technology,No
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,48,39,Information Technology,No
+RK University,Rajkot,120,60,Information Technology,Yes
+RK University,Rajkot,180,77,Information Technology,Yes
+RK University,Rajkot,152,87,Information Technology,Yes
+RK University,Rajkot,102,18,Information Technology,No
+RK University,Rajkot,92,48,Information Technology,No
+RK University,Rajkot,56,58,Information Technology,No
+SASTRA University Thanjavur,Thanjavur,120,50,Computer Science,Yes
+SASTRA University Thanjavur,Thanjavur,152,65,Computer Science,Yes
+SASTRA University Thanjavur,Thanjavur,176,95,Computer Science,Yes
+SASTRA University Thanjavur,Thanjavur,110,44,Computer Science,No
+SASTRA University Thanjavur,Thanjavur,48,29,Computer Science,No
+SASTRA University Thanjavur,Thanjavur,66,37,Computer Science,No
+SASTRA University Thanjavur,Thanjavur,120,50,Information Technology,Yes
+SASTRA University Thanjavur,Thanjavur,150,82,Information Technology,Yes
+SASTRA University Thanjavur,Thanjavur,46,22,Information Technology,No
+SASTRA University Thanjavur,Thanjavur,50,12,Information Technology,No
+SASTRA University Thanjavur,Thanjavur,38,32,Information Technology,No
+SASTRA University Thanjavur,Thanjavur,120,50,Electricals and Electronics,Yes
+SASTRA University Thanjavur,Thanjavur,158,88,Electricals and Electronics,Yes
+SASTRA University Thanjavur,Thanjavur,166,78,Electricals and Electronics,Yes
+SASTRA University Thanjavur,Thanjavur,114,18,Electricals and Electronics,No
+SASTRA University Thanjavur,Thanjavur,6,48,Electricals and Electronics,No
+SASTRA University Thanjavur,Thanjavur,120,50,Electronics and Communication,Yes
+SASTRA University Thanjavur,Thanjavur,164,76,Electronics and Communication,Yes
+SASTRA University Thanjavur,Thanjavur,182,99,Electronics and Communication,Yes
+SASTRA University Thanjavur,Thanjavur,104,19,Electronics and Communication,No
+SASTRA University Thanjavur,Thanjavur,84,39,Electronics and Communication,No
+SASTRA University Thanjavur,Thanjavur,64,49,Electronics and Communication,No
+SASTRA University Thanjavur,Thanjavur,120,50,Civil Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,142,60,Civil Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,162,70,Civil Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,182,80,Civil Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,22,10,Civil Engineering,No
+SASTRA University Thanjavur,Thanjavur,42,20,Civil Engineering,No
+SASTRA University Thanjavur,Thanjavur,62,30,Civil Engineering,No
+SASTRA University Thanjavur,Thanjavur,120,50,Mechanical Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,160,77,Mechanical Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,180,87,Mechanical Engineering,Yes
+SASTRA University Thanjavur,Thanjavur,80,17,Mechanical Engineering,No
+SASTRA University Thanjavur,Thanjavur,40,37,Mechanical Engineering,No
+SASTRA University Thanjavur,Thanjavur,60,47,Mechanical Engineering,No
+Sathyabama University ,Chennai,120,85,Computer Science,Yes
+Sathyabama University ,Chennai,192,85,Computer Science,Yes
+Sathyabama University ,Chennai,174,95,Computer Science,Yes
+Sathyabama University ,Chennai,100,95,Computer Science,No
+Sathyabama University ,Chennai,82,12,Computer Science,No
+Sathyabama University ,Chennai,46,69,Computer Science,No
+Sathyabama University ,Chennai,120,85,Information Technology,Yes
+Sathyabama University ,Chennai,152,92,Information Technology,Yes
+Sathyabama University ,Chennai,170,99,Information Technology,Yes
+Sathyabama University ,Chennai,58,22,Information Technology,No
+Sathyabama University ,Chennai,102,12,Information Technology,No
+Sathyabama University ,Chennai,20,32,Information Technology,No
+Sathyabama University ,Chennai,120,85,Electricals and Electronics,Yes
+Sathyabama University ,Chennai,140,91,Electricals and Electronics,Yes
+Sathyabama University ,Chennai,80,41,Electricals and Electronics,No
+Sathyabama University ,Chennai,60,81,Electricals and Electronics,No
+Sathyabama University ,Chennai,40,71,Electricals and Electronics,No
+Sathyabama University ,Chennai,120,85,Electronics and Communication,Yes
+Sathyabama University ,Chennai,190,94,Electronics and Communication,Yes
+Sathyabama University ,Chennai,110,14,Electronics and Communication,No
+Sathyabama University ,Chennai,30,44,Electronics and Communication,No
+Sathyabama University ,Chennai,50,34,Electronics and Communication,No
+Sathyabama University ,Chennai,120,85,Civil Engineering,Yes
+Sathyabama University ,Chennai,152,93,Civil Engineering,Yes
+Sathyabama University ,Chennai,172,88,Civil Engineering,Yes
+Sathyabama University ,Chennai,192,99,Civil Engineering,Yes
+Sathyabama University ,Chennai,32,13,Civil Engineering,No
+Sathyabama University ,Chennai,62,43,Civil Engineering,No
+Sathyabama University ,Chennai,120,85,Mechanical Engineering,Yes
+Sathyabama University ,Chennai,146,88,Mechanical Engineering,Yes
+Sathyabama University ,Chennai,166,92,Mechanical Engineering,Yes
+Sathyabama University ,Chennai,66,22,Mechanical Engineering,No
+Sathyabama University ,Chennai,4,32,Mechanical Engineering,No
+Sathyabama University ,Chennai,46,52,Mechanical Engineering,No
+SCSVMV University,Kanchipuram,160,90,Information Technology,Yes
+SCSVMV University,Kanchipuram,186,93,Information Technology,Yes
+SCSVMV University,Kanchipuram,146,13,Information Technology,No
+SCSVMV University,Kanchipuram,136,83,Information Technology,No
+SCSVMV University,Kanchipuram,50,73,Information Technology,No
+SCSVMV University,Kanchipuram,160,90,Electricals and Electronics,Yes
+SCSVMV University,Kanchipuram,184,92,Electricals and Electronics,Yes
+SCSVMV University,Kanchipuram,164,95,Electricals and Electronics,Yes
+SCSVMV University,Kanchipuram,84,15,Electricals and Electronics,No
+SCSVMV University,Kanchipuram,64,35,Electricals and Electronics,No
+Sharda University,Greater Noida,120,50,Computer Science,Yes
+Sharda University,Greater Noida,172,70,Computer Science,Yes
+Sharda University,Greater Noida,46,40,Computer Science,No
+Sharda University,Greater Noida,24,20,Computer Science,No
+Sharda University,Greater Noida,86,30,Computer Science,No
+Sharda University,Greater Noida,120,50,Information Technology,Yes
+Sharda University,Greater Noida,184,62,Information Technology,Yes
+Sharda University,Greater Noida,152,82,Information Technology,Yes
+Sharda University,Greater Noida,50,12,Information Technology,No
+Sharda University,Greater Noida,32,32,Information Technology,No
+Sharda University,Greater Noida,120,50,Electricals and Electronics,Yes
+Sharda University,Greater Noida,154,84,Electricals and Electronics,Yes
+Sharda University,Greater Noida,34,14,Electricals and Electronics,No
+Sharda University,Greater Noida,84,34,Electricals and Electronics,No
+Sharda University,Greater Noida,68,24,Electricals and Electronics,No
+Sharda University,Greater Noida,120,50,Electronics and Communication,Yes
+Sharda University,Greater Noida,166,83,Electronics and Communication,Yes
+Sharda University,Greater Noida,66,13,Electronics and Communication,No
+Sharda University,Greater Noida,46,43,Electronics and Communication,No
+Sharda University,Greater Noida,106,23,Electronics and Communication,No
+Sharda University,Greater Noida,86,33,Electronics and Communication,No
+Sharda University,Greater Noida,120,50,Civil Engineering,Yes
+Sharda University,Greater Noida,190,77,Civil Engineering,Yes
+Sharda University,Greater Noida,170,87,Civil Engineering,Yes
+Sharda University,Greater Noida,30,17,Civil Engineering,No
+Sharda University,Greater Noida,70,37,Civil Engineering,No
+Sharda University,Greater Noida,90,27,Civil Engineering,No
+Sharda University,Greater Noida,120,50,Mechanical Engineering,Yes
+Sharda University,Greater Noida,150,82,Mechanical Engineering,Yes
+Sharda University,Greater Noida,190,72,Mechanical Engineering,Yes
+Sharda University,Greater Noida,30,42,Mechanical Engineering,No
+Sharda University,Greater Noida,70,12,Mechanical Engineering,No
+Shiv Nadar University,Greater Noida,120,60,Computer Science,Yes
+Shiv Nadar University,Greater Noida,150,75,Computer Science,Yes
+Shiv Nadar University,Greater Noida,186,93,Computer Science,Yes
+Shiv Nadar University,Greater Noida,64,32,Computer Science,No
+Shiv Nadar University,Greater Noida,24,12,Computer Science,No
+Shiv Nadar University,Greater Noida,104,52,Computer Science,No
+Shiv Nadar University,Greater Noida,120,60,Civil Engineering,Yes
+Shiv Nadar University,Greater Noida,148,75,Civil Engineering,Yes
+Shiv Nadar University,Greater Noida,188,85,Civil Engineering,Yes
+Shiv Nadar University,Greater Noida,8,15,Civil Engineering,No
+Shiv Nadar University,Greater Noida,68,35,Civil Engineering,No
+Shiv Nadar University,Greater Noida,120,60,Mechanical Engineering,Yes
+Shiv Nadar University,Greater Noida,154,88,Mechanical Engineering,Yes
+Shiv Nadar University,Greater Noida,34,18,Mechanical Engineering,No
+Shiv Nadar University,Greater Noida,54,38,Mechanical Engineering,No
+Shiv Nadar University,Greater Noida,74,58,Mechanical Engineering,No
+Shoolini University Solan,Solan,120,50,Computer Science,Yes
+Shoolini University Solan,Solan,150,74,Computer Science,Yes
+Shoolini University Solan,Solan,172,84,Computer Science,Yes
+Shoolini University Solan,Solan,184,94,Computer Science,Yes
+Shoolini University Solan,Solan,42,11,Computer Science,No
+Shoolini University Solan,Solan,70,24,Computer Science,No
+Shoolini University Solan,Solan,20,34,Computer Science,No
+Shoolini University Solan,Solan,120,50,Electronics and Communication,Yes
+Shoolini University Solan,Solan,166,50,Electronics and Communication,Yes
+Shoolini University Solan,Solan,146,80,Electronics and Communication,Yes
+Shoolini University Solan,Solan,106,20,Electronics and Communication,No
+Shoolini University Solan,Solan,26,30,Electronics and Communication,No
+Shoolini University Solan,Solan,66,10,Electronics and Communication,No
+Shoolini University Solan,Solan,120,50,Civil Engineering,Yes
+Shoolini University Solan,Solan,156,72,Civil Engineering,Yes
+Shoolini University Solan,Solan,176,82,Civil Engineering,Yes
+Shoolini University Solan,Solan,196,92,Civil Engineering,Yes
+Shoolini University Solan,Solan,56,12,Civil Engineering,No
+Shoolini University Solan,Solan,76,42,Civil Engineering,No
+Shoolini University Solan,Solan,120,50,Mechanical Engineering,Yes
+Shoolini University Solan,Solan,150,73,Mechanical Engineering,Yes
+Shoolini University Solan,Solan,170,83,Mechanical Engineering,Yes
+Shoolini University Solan,Solan,30,3,Mechanical Engineering,No
+Shoolini University Solan,Solan,70,13,Mechanical Engineering,No
+Shri Mata Vaishno Devi University,Katra,100,50,Computer Science,Yes
+Shri Mata Vaishno Devi University,Katra,124,65,Computer Science,Yes
+Shri Mata Vaishno Devi University,Katra,152,82,Computer Science,Yes
+Shri Mata Vaishno Devi University,Katra,170,95,Computer Science,Yes
+Shri Mata Vaishno Devi University,Katra,84,15,Computer Science,No
+Shri Mata Vaishno Devi University,Katra,72,35,Computer Science,No
+Shri Mata Vaishno Devi University,Katra,100,50,Electronics and Communication,Yes
+Shri Mata Vaishno Devi University,Katra,168,83,Electronics and Communication,Yes
+Shri Mata Vaishno Devi University,Katra,88,13,Electronics and Communication,No
+Shri Mata Vaishno Devi University,Katra,68,53,Electronics and Communication,No
+Shri Mata Vaishno Devi University,Katra,48,43,Electronics and Communication,No
+Shri Mata Vaishno Devi University,Katra,100,50,Civil Engineering,Yes
+Shri Mata Vaishno Devi University,Katra,192,88,Civil Engineering,Yes
+Shri Mata Vaishno Devi University,Katra,52,18,Civil Engineering,No
+Shri Mata Vaishno Devi University,Katra,72,38,Civil Engineering,No
+Shri Mata Vaishno Devi University,Katra,92,48,Civil Engineering,No
+Shri Mata Vaishno Devi University,Katra,100,50,Mechanical Engineering,Yes
+Shri Mata Vaishno Devi University,Katra,144,76,Mechanical Engineering,Yes
+Shri Mata Vaishno Devi University,Katra,164,86,Mechanical Engineering,Yes
+Shri Mata Vaishno Devi University,Katra,44,16,Mechanical Engineering,No
+Shri Mata Vaishno Devi University,Katra,24,46,Mechanical Engineering,No
+Siksha 'O' Anusandhan,Bhubaneshwar,100,45,Computer Science,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,126,55,Computer Science,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,172,69,Computer Science,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,184,86,Computer Science,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,116,48,Computer Science,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,28,32,Computer Science,No
+Siksha 'O' Anusandhan,Bhubaneshwar,52,11,Computer Science,No
+Siksha 'O' Anusandhan,Bhubaneshwar,64,14,Computer Science,No
+Siksha 'O' Anusandhan,Bhubaneshwar,90,26,Computer Science,No
+Siksha 'O' Anusandhan,Bhubaneshwar,20,39,Computer Science,No
+Siksha 'O' Anusandhan,Bhubaneshwar,66,40,Computer Science,No
+Siksha 'O' Anusandhan,Bhubaneshwar,100,45,Electricals and Electronics,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,144,54,Electricals and Electronics,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,164,84,Electricals and Electronics,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,122,94,Electricals and Electronics,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,84,14,Electricals and Electronics,No
+Siksha 'O' Anusandhan,Bhubaneshwar,38,44,Electricals and Electronics,No
+Siksha 'O' Anusandhan,Bhubaneshwar,100,45,Electronics and Communication,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,140,57,Electronics and Communication,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,120,97,Electronics and Communication,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,20,17,Electronics and Communication,No
+Siksha 'O' Anusandhan,Bhubaneshwar,60,37,Electronics and Communication,No
+Siksha 'O' Anusandhan,Bhubaneshwar,40,47,Electronics and Communication,No
+Siksha 'O' Anusandhan,Bhubaneshwar,100,45,Civil Engineering,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,124,77,Civil Engineering,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,164,87,Civil Engineering,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,24,17,Civil Engineering,No
+Siksha 'O' Anusandhan,Bhubaneshwar,26,27,Civil Engineering,No
+Siksha 'O' Anusandhan,Bhubaneshwar,100,45,Mechanical Engineering,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,172,95,Mechanical Engineering,Yes
+Siksha 'O' Anusandhan,Bhubaneshwar,32,35,Mechanical Engineering,No
+Siksha 'O' Anusandhan,Bhubaneshwar,12,25,Mechanical Engineering,No
+Siksha 'O' Anusandhan,Bhubaneshwar,72,15,Mechanical Engineering,No
+SR University,Warangal,140,50,Electricals and Electronics,Yes
+SR University,Warangal,178,75,Electricals and Electronics,Yes
+SR University,Warangal,198,95,Electricals and Electronics,Yes
+SR University,Warangal,98,15,Electricals and Electronics,No
+SR University,Warangal,78,5,Electricals and Electronics,No
+SR University,Warangal,38,35,Electricals and Electronics,No
+SR University,Warangal,140,50,Electronics and Communication,Yes
+SR University,Warangal,164,64,Electronics and Communication,Yes
+SR University,Warangal,184,84,Electronics and Communication,Yes
+SR University,Warangal,24,14,Electronics and Communication,No
+SR University,Warangal,64,34,Electronics and Communication,No
+SR University,Warangal,140,50,Civil Engineering,Yes
+SR University,Warangal,174,79,Civil Engineering,Yes
+SR University,Warangal,194,89,Civil Engineering,Yes
+SR University,Warangal,34,19,Civil Engineering,No
+SR University,Warangal,54,49,Civil Engineering,No
+SR University,Warangal,140,50,Mechanical Engineering,Yes
+SR University,Warangal,168,73,Mechanical Engineering,Yes
+SR University,Warangal,188,83,Mechanical Engineering,Yes
+SR University,Warangal,28,33,Mechanical Engineering,No
+SR University,Warangal,48,23,Mechanical Engineering,No
+SR University,Warangal,68,13,Mechanical Engineering,No
+Sri Padmavati Mahila Visvavidyalayam,Tirupati,120,65,Electricals and Electronics,Yes
+Sri Padmavati Mahila Visvavidyalayam,Tirupati,166,81,Electricals and Electronics,Yes
+Sri Padmavati Mahila Visvavidyalayam,Tirupati,86,11,Electricals and Electronics,No
+Sri Padmavati Mahila Visvavidyalayam,Tirupati,46,21,Electricals and Electronics,No
+Sri Padmavati Mahila Visvavidyalayam,Tirupati,26,31,Electricals and Electronics,No
+SRM University Chennai ,Kattankulathur,120,50,Computer Science,Yes
+SRM University Chennai ,Kattankulathur,172,66,Computer Science,Yes
+SRM University Chennai ,Kattankulathur,144,87,Computer Science,Yes
+SRM University Chennai ,Kattankulathur,190,65,Computer Science,Yes
+SRM University Chennai ,Kattankulathur,24,35,Computer Science,No
+SRM University Chennai ,Kattankulathur,46,21,Computer Science,No
+SRM University Chennai ,Kattankulathur,72,10,Computer Science,No
+SRM University Chennai ,Kattankulathur,84,19,Computer Science,No
+SRM University Chennai ,Kattankulathur,120,50,Electricals and Electronics,Yes
+SRM University Chennai ,Kattankulathur,138,66,Electricals and Electronics,Yes
+SRM University Chennai ,Kattankulathur,188,96,Electricals and Electronics,Yes
+SRM University Chennai ,Kattankulathur,114,16,Electricals and Electronics,No
+SRM University Chennai ,Kattankulathur,28,36,Electricals and Electronics,No
+SRM University Chennai ,Kattankulathur,120,50,Electronics and Communication,Yes
+SRM University Chennai ,Kattankulathur,142,88,Electronics and Communication,Yes
+SRM University Chennai ,Kattankulathur,182,78,Electronics and Communication,Yes
+SRM University Chennai ,Kattankulathur,82,18,Electronics and Communication,No
+SRM University Chennai ,Kattankulathur,42,8,Electronics and Communication,No
+SRM University Chennai ,Kattankulathur,62,38,Electronics and Communication,No
+SRM University Chennai ,Kattankulathur,120,50,Civil Engineering,Yes
+SRM University Chennai ,Kattankulathur,152,89,Civil Engineering,Yes
+SRM University Chennai ,Kattankulathur,112,19,Civil Engineering,No
+SRM University Chennai ,Kattankulathur,32,29,Civil Engineering,No
+SRM University Chennai ,Kattankulathur,72,39,Civil Engineering,No
+SRM University Chennai ,Kattankulathur,120,50,Mechanical Engineering,Yes
+SRM University Chennai ,Kattankulathur,156,76,Mechanical Engineering,Yes
+SRM University Chennai ,Kattankulathur,176,86,Mechanical Engineering,Yes
+SRM University Chennai ,Kattankulathur,56,26,Mechanical Engineering,No
+SRM University Chennai ,Kattankulathur,76,46,Mechanical Engineering,No
+SRM University Chennai ,Kattankulathur,36,36,Mechanical Engineering,No
+Tezpur University ,Tezpur,100,45,Computer Science,Yes
+Tezpur University ,Tezpur,126,59,Computer Science,Yes
+Tezpur University ,Tezpur,150,68,Computer Science,Yes
+Tezpur University ,Tezpur,172,84,Computer Science,Yes
+Tezpur University ,Tezpur,68,35,Computer Science,No
+Tezpur University ,Tezpur,52,41,Computer Science,No
+Tezpur University ,Tezpur,32,23,Computer Science,No
+Tezpur University ,Tezpur,100,45,Electronics and Communication,Yes
+Tezpur University ,Tezpur,196,59,Electronics and Communication,Yes
+Tezpur University ,Tezpur,156,99,Electronics and Communication,Yes
+Tezpur University ,Tezpur,56,19,Electronics and Communication,No
+Tezpur University ,Tezpur,76,39,Electronics and Communication,No
+Tezpur University ,Tezpur,36,49,Electronics and Communication,No
+Tezpur University ,Tezpur,100,45,Civil Engineering,Yes
+Tezpur University ,Tezpur,168,65,Civil Engineering,Yes
+Tezpur University ,Tezpur,28,35,Civil Engineering,No
+Tezpur University ,Tezpur,48,15,Civil Engineering,No
+Tezpur University ,Tezpur,68,5,Civil Engineering,No
+Tezpur University ,Tezpur,100,45,Mechanical Engineering,Yes
+Tezpur University ,Tezpur,130,76,Mechanical Engineering,Yes
+Tezpur University ,Tezpur,170,86,Mechanical Engineering,Yes
+Tezpur University ,Tezpur,10,16,Mechanical Engineering,No
+Tezpur University ,Tezpur,70,46,Mechanical Engineering,No
+Thapar University ,Patiala,140,80,Computer Science,Yes
+Thapar University ,Patiala,154,82,Computer Science,Yes
+Thapar University ,Patiala,170,85,Computer Science,Yes
+Thapar University ,Patiala,180,93,Computer Science,Yes
+Thapar University ,Patiala,196,96,Computer Science,Yes
+Thapar University ,Patiala,130,77,Computer Science,No
+Thapar University ,Patiala,118,65,Computer Science,No
+Thapar University ,Patiala,46,59,Computer Science,No
+Thapar University ,Patiala,98,46,Computer Science,No
+Thapar University ,Patiala,74,35,Computer Science,No
+Thapar University ,Patiala,140,80,Electronics and Communication,Yes
+Thapar University ,Patiala,166,90,Electronics and Communication,Yes
+Thapar University ,Patiala,186,99,Electronics and Communication,Yes
+Thapar University ,Patiala,86,10,Electronics and Communication,No
+Thapar University ,Patiala,126,20,Electronics and Communication,No
+Thapar University ,Patiala,140,80,Civil Engineering,Yes
+Thapar University ,Patiala,176,81,Civil Engineering,Yes
+Thapar University ,Patiala,196,91,Civil Engineering,Yes
+Thapar University ,Patiala,36,21,Civil Engineering,No
+Thapar University ,Patiala,96,31,Civil Engineering,No
+Thapar University ,Patiala,140,80,Mechanical Engineering,Yes
+Thapar University ,Patiala,162,88,Mechanical Engineering,Yes
+Thapar University ,Patiala,182,90,Mechanical Engineering,Yes
+Thapar University ,Patiala,22,10,Mechanical Engineering,No
+Thapar University ,Patiala,62,30,Mechanical Engineering,No
+University of Delhi,New Delhi,100,55,Information Technology,Yes
+University of Delhi,New Delhi,130,76,Information Technology,Yes
+University of Delhi,New Delhi,188,96,Information Technology,Yes
+University of Delhi,New Delhi,64,16,Information Technology,No
+University of Delhi,New Delhi,98,36,Information Technology,No
+University of Delhi,New Delhi,32,46,Information Technology,No
+Veer Surendra Sai University of Technology,Burla,150,85,Information Technology,Yes
+Veer Surendra Sai University of Technology,Burla,164,99,Information Technology,Yes
+Veer Surendra Sai University of Technology,Burla,144,19,Information Technology,No
+Veer Surendra Sai University of Technology,Burla,138,29,Information Technology,No
+Veer Surendra Sai University of Technology,Burla,42,49,Information Technology,No
+Veer Surendra Sai University of Technology,Burla,150,85,Electricals and Electronics,Yes
+Veer Surendra Sai University of Technology,Burla,166,87,Electricals and Electronics,Yes
+Veer Surendra Sai University of Technology,Burla,186,97,Electricals and Electronics,Yes
+Veer Surendra Sai University of Technology,Burla,86,17,Electricals and Electronics,No
+Veer Surendra Sai University of Technology,Burla,46,57,Electricals and Electronics,No
+Vel Tech Chennai ,Chennai,120,55,Information Technology,Yes
+Vel Tech Chennai ,Chennai,142,66,Information Technology,Yes
+Vel Tech Chennai ,Chennai,178,96,Information Technology,Yes
+Vel Tech Chennai ,Chennai,56,16,Information Technology,No
+Vel Tech Chennai ,Chennai,36,36,Information Technology,No
+Vel Tech Chennai ,Chennai,118,26,Information Technology,No
+Vel Tech Chennai ,Chennai,120,55,Electricals and Electronics,Yes
+Vel Tech Chennai ,Chennai,162,86,Electricals and Electronics,Yes
+Vel Tech Chennai ,Chennai,22,16,Electricals and Electronics,No
+Vel Tech Chennai ,Chennai,82,36,Electricals and Electronics,No
+Vel Tech Chennai ,Chennai,62,26,Electricals and Electronics,No
+Vel Tech Chennai ,Chennai,42,6,Electricals and Electronics,No
+Vel Tech Chennai ,Chennai,120,55,Civil Engineering,Yes
+Vel Tech Chennai ,Chennai,158,91,Civil Engineering,Yes
+Vel Tech Chennai ,Chennai,38,11,Civil Engineering,No
+Vel Tech Chennai ,Chennai,78,21,Civil Engineering,No
+Vel Tech Chennai ,Chennai,98,31,Civil Engineering,No
+Vel Tech Chennai ,Chennai,120,55,Mechanical Engineering,Yes
+Vel Tech Chennai ,Chennai,176,74,Mechanical Engineering,Yes
+Vel Tech Chennai ,Chennai,196,84,Mechanical Engineering,Yes
+Vel Tech Chennai ,Chennai,76,14,Mechanical Engineering,No
+Vel Tech Chennai ,Chennai,96,34,Mechanical Engineering,No
+Vel Tech Chennai ,Chennai,36,44,Mechanical Engineering,No
+Vellore Institute of Technology,Vellore,110,55,Computer Science,Yes
+Vellore Institute of Technology,Vellore,132,66,Computer Science,Yes
+Vellore Institute of Technology,Vellore,178,76,Computer Science,Yes
+Vellore Institute of Technology,Vellore,158,86,Computer Science,Yes
+Vellore Institute of Technology,Vellore,150,96,Computer Science,Yes
+Vellore Institute of Technology,Vellore,136,69,Computer Science,Yes
+Vellore Institute of Technology,Vellore,64,16,Computer Science,No
+Vellore Institute of Technology,Vellore,100,36,Computer Science,No
+Vellore Institute of Technology,Vellore,92,26,Computer Science,No
+Vellore Institute of Technology,Vellore,110,55,Information Technology,Yes
+Vellore Institute of Technology,Vellore,138,74,Information Technology,Yes
+Vellore Institute of Technology,Vellore,144,94,Information Technology,Yes
+Vellore Institute of Technology,Vellore,46,14,Information Technology,No
+Vellore Institute of Technology,Vellore,82,34,Information Technology,No
+Vellore Institute of Technology,Vellore,110,55,Electricals and Electronics,Yes
+Vellore Institute of Technology,Vellore,130,74,Electricals and Electronics,Yes
+Vellore Institute of Technology,Vellore,162,94,Electricals and Electronics,Yes
+Vellore Institute of Technology,Vellore,102,14,Electricals and Electronics,No
+Vellore Institute of Technology,Vellore,98,54,Electricals and Electronics,No
+Vellore Institute of Technology,Vellore,62,34,Electricals and Electronics,No
+Vellore Institute of Technology,Vellore,110,55,Electronics and Communication,Yes
+Vellore Institute of Technology,Vellore,140,76,Electronics and Communication,Yes
+Vellore Institute of Technology,Vellore,180,86,Electronics and Communication,Yes
+Vellore Institute of Technology,Vellore,160,96,Electronics and Communication,Yes
+Vellore Institute of Technology,Vellore,80,16,Electronics and Communication,No
+Vellore Institute of Technology,Vellore,40,36,Electronics and Communication,No
+Vellore Institute of Technology,Vellore,110,55,Civil Engineering,Yes
+Vellore Institute of Technology,Vellore,164,87,Civil Engineering,Yes
+Vellore Institute of Technology,Vellore,44,17,Civil Engineering,No
+Vellore Institute of Technology,Vellore,24,27,Civil Engineering,No
+Vellore Institute of Technology,Vellore,64,37,Civil Engineering,No
+Vellore Institute of Technology,Vellore,110,55,Mechanical Engineering,Yes
+Vellore Institute of Technology,Vellore,128,85,Mechanical Engineering,Yes
+Vellore Institute of Technology,Vellore,168,75,Mechanical Engineering,Yes
+Vellore Institute of Technology,Vellore,28,15,Mechanical Engineering,No
+Vellore Institute of Technology,Vellore,48,45,Mechanical Engineering,No
+Vels University Chennai ,Chennai,120,55,Computer Science,Yes
+Vels University Chennai ,Chennai,158,81,Computer Science,Yes
+Vels University Chennai ,Chennai,104,21,Computer Science,No
+Vels University Chennai ,Chennai,80,11,Computer Science,No
+Vels University Chennai ,Chennai,26,31,Computer Science,No
+Vels University Chennai ,Chennai,120,55,Information Technology,Yes
+Vels University Chennai ,Chennai,150,70,Information Technology,Yes
+Vels University Chennai ,Chennai,164,90,Information Technology,Yes
+Vels University Chennai ,Chennai,32,9,Information Technology,No
+Vels University Chennai ,Chennai,0,10,Information Technology,No
+Vels University Chennai ,Chennai,48,30,Information Technology,No
+Vels University Chennai ,Chennai,78,20,Information Technology,No
+Vels University Chennai ,Chennai,120,55,Electricals and Electronics,Yes
+Vels University Chennai ,Chennai,152,73,Electricals and Electronics,Yes
+Vels University Chennai ,Chennai,192,83,Electricals and Electronics,Yes
+Vels University Chennai ,Chennai,12,13,Electricals and Electronics,No
+Vels University Chennai ,Chennai,112,43,Electricals and Electronics,No
+Vels University Chennai ,Chennai,120,55,Electronics and Communication,Yes
+Vels University Chennai ,Chennai,148,73,Electronics and Communication,Yes
+Vels University Chennai ,Chennai,188,83,Electronics and Communication,Yes
+Vels University Chennai ,Chennai,8,13,Electronics and Communication,No
+Vels University Chennai ,Chennai,68,23,Electronics and Communication,No
+Vels University Chennai ,Chennai,108,43,Electronics and Communication,No
+Vels University Chennai ,Chennai,120,55,Civil Engineering,Yes
+Vels University Chennai ,Chennai,146,86,Civil Engineering,Yes
+Vels University Chennai ,Chennai,166,76,Civil Engineering,Yes
+Vels University Chennai ,Chennai,6,16,Civil Engineering,No
+Vels University Chennai ,Chennai,26,46,Civil Engineering,No
+Vels University Chennai ,Chennai,120,55,Mechanical Engineering,Yes
+Vels University Chennai ,Chennai,150,71,Mechanical Engineering,Yes
+Vels University Chennai ,Chennai,170,81,Mechanical Engineering,Yes
+Vels University Chennai ,Chennai,110,21,Mechanical Engineering,No
+Vels University Chennai ,Chennai,30,41,Mechanical Engineering,No
+Vels University Chennai ,Chennai,70,31,Mechanical Engineering,No
+Vignan's Foundation for Science Technology and Research,Guntur,120,60,Computer Science,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,146,88,Computer Science,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,192,92,Computer Science,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,40,20,Computer Science,No
+Vignan's Foundation for Science Technology and Research,Guntur,78,39,Computer Science,No
+Vignan's Foundation for Science Technology and Research,Guntur,28,14,Computer Science,No
+Vignan's Foundation for Science Technology and Research,Guntur,120,60,Information Technology,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,146,73,Information Technology,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,164,83,Information Technology,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,36,13,Information Technology,No
+Vignan's Foundation for Science Technology and Research,Guntur,72,23,Information Technology,No
+Vignan's Foundation for Science Technology and Research,Guntur,120,60,Electricals and Electronics,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,140,89,Electricals and Electronics,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,160,79,Electricals and Electronics,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,80,19,Electricals and Electronics,No
+Vignan's Foundation for Science Technology and Research,Guntur,20,49,Electricals and Electronics,No
+Vignan's Foundation for Science Technology and Research,Guntur,60,39,Electricals and Electronics,No
+Vignan's Foundation for Science Technology and Research,Guntur,120,60,Electronics and Communication,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,194,89,Electronics and Communication,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,34,19,Electronics and Communication,No
+Vignan's Foundation for Science Technology and Research,Guntur,42,49,Electronics and Communication,No
+Vignan's Foundation for Science Technology and Research,Guntur,54,59,Electronics and Communication,No
+Vignan's Foundation for Science Technology and Research,Guntur,74,39,Electronics and Communication,No
+Vignan's Foundation for Science Technology and Research,Guntur,120,60,Civil Engineering,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,176,72,Civil Engineering,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,156,82,Civil Engineering,Yes
+Vignan's Foundation for Science Technology and Research,Guntur,16,12,Civil Engineering,No
+Vignan's Foundation for Science Technology and Research,Guntur,56,32,Civil Engineering,No
+Vignan's Foundation for Science Technology and Research,Guntur,76,42,Civil Engineering,No
+Visvesvaraya Technological University,Belgaum,140,55,Computer Science,Yes
+Visvesvaraya Technological University,Belgaum,164,72,Computer Science,Yes
+Visvesvaraya Technological University,Belgaum,182,83,Computer Science,Yes
+Visvesvaraya Technological University,Belgaum,124,43,Computer Science,No
+Visvesvaraya Technological University,Belgaum,24,21,Computer Science,No
+Visvesvaraya Technological University,Belgaum,140,55,Information Technology,Yes
+Visvesvaraya Technological University,Belgaum,170,76,Information Technology,Yes
+Visvesvaraya Technological University,Belgaum,188,86,Information Technology,Yes
+Visvesvaraya Technological University,Belgaum,28,16,Information Technology,No
+Visvesvaraya Technological University,Belgaum,62,36,Information Technology,No
+Visvesvaraya Technological University,Belgaum,130,26,Information Technology,No
+Visvesvaraya Technological University,Belgaum,140,55,Electricals and Electronics,Yes
+Visvesvaraya Technological University,Belgaum,154,77,Electricals and Electronics,Yes
+Visvesvaraya Technological University,Belgaum,174,87,Electricals and Electronics,Yes
+Visvesvaraya Technological University,Belgaum,194,97,Electricals and Electronics,Yes
+Visvesvaraya Technological University,Belgaum,94,17,Electricals and Electronics,No
+Visvesvaraya Technological University,Belgaum,34,27,Electricals and Electronics,No
+Visvesvaraya Technological University,Belgaum,140,55,Electronics and Communication,Yes
+Visvesvaraya Technological University,Belgaum,162,85,Electronics and Communication,Yes
+Visvesvaraya Technological University,Belgaum,22,15,Electronics and Communication,No
+Visvesvaraya Technological University,Belgaum,62,35,Electronics and Communication,No
+Visvesvaraya Technological University,Belgaum,42,28,Electronics and Communication,No
+Visvesvaraya Technological University,Belgaum,140,55,Civil Engineering,Yes
+Visvesvaraya Technological University,Belgaum,176,68,Civil Engineering,Yes
+Visvesvaraya Technological University,Belgaum,196,88,Civil Engineering,Yes
+Visvesvaraya Technological University,Belgaum,36,18,Civil Engineering,No
+Visvesvaraya Technological University,Belgaum,96,38,Civil Engineering,No
+Visvesvaraya Technological University,Belgaum,76,48,Civil Engineering,No
+Visvesvaraya Technological University,Belgaum,140,55,Mechanical Engineering,Yes
+Visvesvaraya Technological University,Belgaum,198,71,Mechanical Engineering,Yes
+Visvesvaraya Technological University,Belgaum,178,81,Mechanical Engineering,Yes
+Visvesvaraya Technological University,Belgaum,56,1,Mechanical Engineering,No
+Visvesvaraya Technological University,Belgaum,78,51,Mechanical Engineering,No
+YMCA Faridabad,Faridabad,100,75,Information Technology,Yes
+YMCA Faridabad,Faridabad,146,81,Information Technology,Yes
+YMCA Faridabad,Faridabad,178,91,Information Technology,Yes
+YMCA Faridabad,Faridabad,84,11,Information Technology,No
+YMCA Faridabad,Faridabad,62,21,Information Technology,No
+YMCA Faridabad,Faridabad,28,31,Information Technology,No
